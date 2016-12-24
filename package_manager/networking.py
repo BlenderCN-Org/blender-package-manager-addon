@@ -25,6 +25,7 @@ import asyncio
 import urllib.request
 import zipfile
 from bpy.props import StringProperty
+from . classes import PackageManagerAddon
 
 download_install_status = ""
 log = logging.getLogger('networking')

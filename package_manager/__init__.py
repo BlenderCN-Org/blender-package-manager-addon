@@ -17,7 +17,7 @@
 
 bl_info = {
     "name": "Package Manager",
-    "author": "Peter Cassetta",
+    "author": "Peter Cassetta, John Roper",
     "version": (1, 0),
     "blender": (2, 77, 0),
     "location": "User Preferences > Add-ons > System: Package Manager",
@@ -34,7 +34,10 @@ import addon_utils
 from bpy.types import AddonPreferences
 from bpy.props import StringProperty, IntProperty, CollectionProperty
 
-# Support reloading
+from . classes import PackageManagerAddon
+from . import networking
+
+""" Support reloading
 if "bpy" in locals():
     import imp
     try:
@@ -43,25 +46,7 @@ if "bpy" in locals():
         from . import networking
 else:
     from . import networking
-
-
-class PackageManagerAddon(bpy.types.PropertyGroup):
-    """PropertyGroup representing an add-on available for download."""
-    
-    source = StringProperty()
-    name = StringProperty()
-    description = StringProperty()
-    author = StringProperty()
-    wiki_url = StringProperty()
-    tracker_url = StringProperty()
-    location = StringProperty()
-    category = StringProperty()
-    version = StringProperty()
-    blender = StringProperty()
-    warning = StringProperty()
-    support = StringProperty()
-    module_name = StringProperty()
-    download_url = StringProperty()
+"""
 
 
 class PackageManagerPreferences(AddonPreferences):
