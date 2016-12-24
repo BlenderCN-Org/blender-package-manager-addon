@@ -183,7 +183,7 @@ def main():
                         help='merge with any existing index.json file')
     parser.add_argument('--source', nargs='?', type=str, default='internal',
                         help='set the source of the addons')
-    parser.add_argument('--base', nargs='?', type=str, default='https://packages.blender.org/',
+    parser.add_argument('--base', nargs='?', type=str, default='http://localhost:8000/',
                         help='set the base download URL of the addons')
     parser.add_argument('dir', metavar='DIR', type=str,
                         help='addons directory')
