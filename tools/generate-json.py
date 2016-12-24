@@ -172,7 +172,7 @@ def write_index_file(index_fname: str, addon_data: dict):
     """Writes the index JSON file."""
 
     log.info('Writing addon index to %s', index_fname)
-    with open(index_fname, 'w', encoding='utf-8') as outfile:
+    with open(index_fname, 'w', encoding='utf8') as outfile:
         json.dump(addon_data, outfile, indent=4, sort_keys=True)
 
 
@@ -183,7 +183,7 @@ def main():
                         help='merge with any existing index.json file')
     parser.add_argument('--source', nargs='?', type=str, default='internal',
                         help='set the source of the addons')
-    parser.add_argument('--base', nargs='?', type=str, default='http://localhost:8000/',
+    parser.add_argument('--base', nargs='?', type=str, default='https://packages.blender.org/',
                         help='set the base download URL of the addons')
     parser.add_argument('dir', metavar='DIR', type=str,
                         help='addons directory')
