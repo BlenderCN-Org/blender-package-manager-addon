@@ -172,7 +172,7 @@ def write_index_file(index_fname: str, addon_data: dict):
     """Writes the index JSON file."""
 
     log.info('Writing addon index to %s', index_fname)
-    with open(index_fname, 'w', encoding='utf8') as outfile:
+    with open(index_fname, 'w', encoding='utf-8') as outfile:
         json.dump(addon_data, outfile, indent=4, sort_keys=True)
 
 
