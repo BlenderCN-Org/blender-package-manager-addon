@@ -30,7 +30,7 @@ from . classes import PackageManagerAddon
 download_install_status = ""
 log = logging.getLogger('networking')
 
-INDEX_DOWNLOAD_URL = ("https://raw.githubusercontent.com/johnroper100/blender-package-manager-addon/develop/addons/index.json")
+INDEX_DOWNLOAD_URL = ("https://raw.githubusercontent.com/johnroper100/blender-package-manager-addon/master/addons/index.json")
 
 class WM_OT_update_index(bpy.types.Operator):
     """Check for updated list of add-ons available for download"""

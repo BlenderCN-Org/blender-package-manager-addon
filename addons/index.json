@@ -9,11 +9,10 @@
             ],
             "category": "Add Curve",
             "description": "Add extra curve object types",
-            "download_url": "http://localhost:8000/add_curve_extra_objects.zip",
+            "download_url": "https://packages.blender.org/add_curve_extra_objects.zip",
             "location": "View3D > Add > Curve > Extra Objects",
             "name": "Extra Objects",
             "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
             "version": [
                 0,
                 1
@@ -30,7 +29,7 @@
             ],
             "category": "Add Curve",
             "description": "Adds generated ivy to a mesh object starting at the 3D cursor",
-            "download_url": "http://localhost:8000/add_curve_ivygen.py",
+            "download_url": "https://packages.blender.org/add_curve_ivygen.py",
             "location": "View3D > Add > Curve",
             "name": "IvyGen",
             "source": "internal",
@@ -51,39 +50,16 @@
             ],
             "category": "Add Curve",
             "description": "Adds a parametric tree. The method is presented by Jason Weber & Joseph Penn in their paper 'Creation and Rendering of Realistic Trees'.",
-            "download_url": "http://localhost:8000/add_curve_sapling.zip",
+            "download_url": "https://packages.blender.org/add_curve_sapling.zip",
             "location": "View3D > Add > Curve",
             "name": "Sapling Tree Gen",
             "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
             "version": [
                 0,
                 3,
                 2
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Curve/Sapling_Tree"
-        },
-        "add_dimension": {
-            "author": "Spivak Vladimir (http://cwolf3d.korostyshev.net)",
-            "blender": [
-                2,
-                7,
-                4
-            ],
-            "category": "Add Curve",
-            "description": "Adds Dimension",
-            "download_url": "http://localhost:8000/add_dimension.py",
-            "location": "View3D > Add > Curve",
-            "name": "Dimension",
-            "source": "internal",
-            "tracker_url": "http://developer.blender.org/T37151",
-            "version": [
-                3,
-                9,
-                4
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Curve/Dimension"
         },
         "add_mesh_BoltFactory": {
             "author": "Aaron Keith",
@@ -94,7 +70,7 @@
             ],
             "category": "Add Mesh",
             "description": "Add a bolt or nut",
-            "download_url": "http://localhost:8000/add_mesh_BoltFactory.zip",
+            "download_url": "https://packages.blender.org/add_mesh_BoltFactory.zip",
             "location": "View3D > Add > Mesh",
             "name": "BoltFactory",
             "source": "internal",
@@ -113,7 +89,7 @@
             ],
             "category": "Add Mesh",
             "description": "Add a landscape primitive",
-            "download_url": "http://localhost:8000/add_mesh_ant_landscape.py",
+            "download_url": "https://packages.blender.org/add_mesh_ant_landscape.py",
             "location": "View3D > Add > Mesh",
             "name": "ANT Landscape",
             "source": "internal",
@@ -121,73 +97,10 @@
             "version": [
                 0,
                 1,
-                3
+                4
             ],
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/ANT_Landscape"
-        },
-        "add_mesh_building_objects": {
-            "author": "Multiple Authors",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Add Mesh",
-            "description": "Add building object types",
-            "download_url": "http://localhost:8000/add_mesh_building_objects.zip",
-            "location": "View3D > Add > Mesh > Cad Objects",
-            "name": "Building Objects",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T32711",
-            "version": [
-                0,
-                2
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
-        "add_mesh_chain_rope": {
-            "author": "Oscurart",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "Object",
-            "description": "Create chains and ropes along armatures/curves",
-            "download_url": "http://localhost:8000/add_mesh_chain_rope.zip",
-            "location": "Add > Mesh",
-            "name": "Oscurart Chain and Rope Maker",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T28136",
-            "version": [
-                1,
-                1
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Oscurart_Chain_Rope_Maker"
-        },
-        "add_mesh_clusters": {
-            "author": "Clemens Barth",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Add Mesh",
-            "description": "Creating cluster formed by atoms",
-            "download_url": "http://localhost:8000/add_mesh_clusters.zip",
-            "location": "Panel: View 3D - Tools (left side)",
-            "name": "Atomic Blender - Cluster",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T31618",
-            "version": [
-                0,
-                5
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Cluster"
         },
         "add_mesh_extra_objects": {
             "author": "Multiple Authors",
@@ -198,7 +111,7 @@
             ],
             "category": "Add Mesh",
             "description": "Add extra mesh object types",
-            "download_url": "http://localhost:8000/add_mesh_extra_objects.zip",
+            "download_url": "https://packages.blender.org/add_mesh_extra_objects.zip",
             "location": "View3D > Add > Mesh",
             "name": "Extra Objects",
             "source": "internal",
@@ -210,69 +123,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Add_Extra"
         },
-        "add_mesh_rocks": {
-            "author": "Paul Marshall (brikbot)",
-            "blender": [
-                2,
-                68,
-                0
-            ],
-            "category": "Add Mesh",
-            "description": "Adds a mesh rock to the Add Mesh menu",
-            "download_url": "http://localhost:8000/add_mesh_rocks.zip",
-            "location": "View3D > Add > Rock Generator",
-            "name": "Rock Generator",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T27314",
-            "version": [
-                1,
-                4
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Rock_Generator"
-        },
-        "add_mesh_space_tree": {
-            "author": "michel anders (varkenvarken)",
-            "blender": [
-                2,
-                66,
-                0
-            ],
-            "category": "Add Mesh",
-            "description": "Adds a tree created with the space colonization algorithm starting at the 3D cursor",
-            "download_url": "http://localhost:8000/add_mesh_space_tree.zip",
-            "location": "View3D > Add > Mesh",
-            "name": "SCA Tree Generator",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                0,
-                1,
-                2
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Add_Space_Tree"
-        },
-        "amaranth": {
-            "author": "Pablo Vazquez, Bassam Kurdali, Sergey Sharybin, Lukas T\u00c3\u00b6nne, Cesar Saez",
-            "blender": [
-                2,
-                74
-            ],
-            "category": "Scene",
-            "description": "A collection of tools and settings to improve productivity",
-            "download_url": "http://localhost:8000/amaranth.zip",
-            "location": "Everywhere!",
-            "name": "Amaranth Toolset",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                1,
-                0,
-                2
-            ],
-            "warning": "",
-            "wiki_url": "http://pablovazquez.org/amaranth"
-        },
         "animation_add_corrective_shape_key": {
             "author": "Ivo Grigull (loolarge), Tal Trachtman",
             "blender": [
@@ -282,7 +132,7 @@
             ],
             "category": "Animation",
             "description": "Creates a corrective shape key for the current pose",
-            "download_url": "http://localhost:8000/animation_add_corrective_shape_key.py",
+            "download_url": "https://packages.blender.org/animation_add_corrective_shape_key.py",
             "location": "Object Data > Shape Keys (Search: corrective) ",
             "name": "Corrective shape keys",
             "source": "internal",
@@ -300,7 +150,7 @@
             ],
             "category": "Animation",
             "description": "Allows animation of mesh, lattice, curve and surface data",
-            "download_url": "http://localhost:8000/animation_animall.py",
+            "download_url": "https://packages.blender.org/animation_animall.py",
             "location": "Tool bar > Animation tab > AnimAll",
             "name": "AnimAll",
             "source": "internal",
@@ -311,52 +161,49 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Animation/AnimAll"
         },
-        "animation_motion_trail": {
-            "author": "Bart Crouch",
+        "archimesh": {
+            "author": "Antonio Vazquez (antonioya)",
             "blender": [
                 2,
-                65,
-                4
+                6,
+                8
             ],
-            "category": "Animation",
-            "description": "Display and edit motion trails in the 3D View",
-            "download_url": "http://localhost:8000/animation_motion_trail.py",
-            "location": "View3D > Toolbar > Motion Trail tab",
-            "name": "Motion Trail",
+            "category": "Add Mesh",
+            "description": "Generate rooms, doors, windows, and other architecture objects",
+            "download_url": "https://packages.blender.org/archimesh.zip",
+            "location": "View3D > Add > Mesh > Archimesh",
+            "name": "Archimesh",
             "source": "internal",
-            "tracker_url": "https://developer.blender.org/T26374",
             "version": [
-                3,
                 1,
-                2
+                1,
+                3
             ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Animation/Motion_Trail"
+            "wiki_url": "https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Archimesh"
         },
-        "automat": {
-            "author": "Th\u00c3\u00a9o Friberg",
+        "blender_id": {
+            "author": "Francesco Siddi, In\u00c3\u00aas Almeida and Sybren A. St\u00c3\u00bcvel",
             "blender": [
                 2,
-                70,
+                77,
                 0
             ],
-            "category": "Render",
-            "description": "One-click material setup from texture for Cycles. Blur from b\u00c2\u00b0wide node pack.",
-            "download_url": "http://localhost:8000/automat.zip",
-            "location": "Space > Automatic / Adjustable Material from Image",
-            "name": "Cycles Automatic Materials",
+            "category": "System",
+            "description": "Stores your Blender ID credentials for usage with other add-ons",
+            "download_url": "https://packages.blender.org/blender_id.zip",
+            "location": "Add-on preferences",
+            "name": "Blender ID authentication",
             "source": "internal",
-            "support": "COMMUNITY",
-            "tracker_url": "mailto:theo.friberg@gmail.com?subject=Bug report for Cycles Automatic Materials addon&body=I have come across the following error while using the Cycles automatic materials addon (Please explain both the symptoms of the error and what you were doing when the error occured. If you think a specific action of yours is related to the error, please include a description of it too.):",
+            "support": "OFFICIAL",
             "version": [
-                0,
-                39
+                1,
+                2,
+                0
             ],
-            "warning": "Still a work in progress",
-            "wiki_url": ""
+            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/System/BlenderID"
         },
         "bone_selection_sets": {
-            "author": "Dan Eicher, Antony Riakiotakis, In\u00c3\u00aas Almeida",
+            "author": "In\u00c3\u00aas Almeida, Antony Riakiotakis, Dan Eicher",
             "blender": [
                 2,
                 75,
@@ -364,7 +211,7 @@
             ],
             "category": "Animation",
             "description": "List of Bone sets for easy selection while animating",
-            "download_url": "http://localhost:8000/bone_selection_sets.py",
+            "download_url": "https://packages.blender.org/bone_selection_sets.py",
             "location": "Properties > Object Data (Armature) > Selection Sets",
             "name": "Bone Selection Sets",
             "source": "internal",
@@ -376,68 +223,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Animation/SelectionSets"
         },
-        "btrace": {
-            "author": "liero, crazycourier, Atom, Meta-Androcto, MacKracken",
-            "blender": [
-                2,
-                68,
-                0
-            ],
-            "category": "Add Curve",
-            "description": "Tools for converting/animating objects/particles into curves",
-            "download_url": "http://localhost:8000/btrace.zip",
-            "location": "View3D > Tools",
-            "name": "Btrace",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/project/3/type/Bug/",
-            "version": [
-                1,
-                1
-            ],
-            "warning": "Still under development, bug reports appreciated",
-            "wiki_url": ""
-        },
-        "cacharanth": {
-            "author": "Pablo Vazquez, Lukas Toenne",
-            "blender": [
-                2,
-                7,
-                3
-            ],
-            "category": "Import-Export",
-            "description": "Import and Export Caches",
-            "download_url": "http://localhost:8000/cacharanth.zip",
-            "location": "View3D > Cacharanth (Tab)",
-            "name": "Cacharanth",
-            "source": "internal",
-            "version": [
-                0,
-                2
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
-        "cmu_mocap_browser": {
-            "author": "Daniel Monteiro Basso <daniel@basso.inf.br>",
-            "blender": [
-                2,
-                66,
-                6
-            ],
-            "category": "Animation",
-            "description": "Assistant for using CMU Motion Capture data",
-            "download_url": "http://localhost:8000/cmu_mocap_browser.zip",
-            "location": "View3D > Tools",
-            "name": "Carnegie Mellon University Mocap Library Browser",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T29086",
-            "version": [
-                2015,
-                3,
-                20
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/CMU_Mocap_Library_Browser"
-        },
         "curve_simplify": {
             "author": "testscreenings",
             "blender": [
@@ -447,7 +232,7 @@
             ],
             "category": "Add Curve",
             "description": "Simplifies 3D Curve objects and animation F-Curves",
-            "download_url": "http://localhost:8000/curve_simplify.py",
+            "download_url": "https://packages.blender.org/curve_simplify.py",
             "location": "Search > Simplify Curves",
             "name": "Simplify Curves",
             "source": "internal",
@@ -459,48 +244,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Curve/Curve_Simplify"
         },
-        "curve_tools": {
-            "author": "Mackraken, guy lateur",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Add Curve",
-            "description": "Adds some functionality for bezier/nurbs curve/surface modeling",
-            "download_url": "http://localhost:8000/curve_tools.zip",
-            "location": "View3D > Tool Shelf > Addons Tab",
-            "name": "Curve Tools 2",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T27720",
-            "version": [
-                0,
-                2,
-                0
-            ],
-            "warning": "WIP",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Curve/Curve_Tools"
-        },
-        "data_overrides": {
-            "author": "Lukas Toenne",
-            "blender": [
-                2,
-                7,
-                3
-            ],
-            "category": "Object",
-            "description": "Override settings and caching for linked objects",
-            "download_url": "http://localhost:8000/data_overrides.zip",
-            "location": "Scene Properties",
-            "name": "Data Overrides",
-            "source": "internal",
-            "version": [
-                0,
-                1
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
         "development_api_navigator": {
             "author": "Dany Lebel (Axon_D)",
             "blender": [
@@ -510,7 +253,7 @@
             ],
             "category": "Development",
             "description": "Allows exploration of the python api via the user interface",
-            "download_url": "http://localhost:8000/development_api_navigator.py",
+            "download_url": "https://packages.blender.org/development_api_navigator.py",
             "location": "Text Editor > Properties > API Navigator Panel",
             "name": "API Navigator",
             "source": "internal",
@@ -522,28 +265,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Text_Editor/API_Navigator"
         },
-        "development_class_viewer": {
-            "author": "Mackraken",
-            "batFingerversion": [
-                0,
-                1,
-                2
-            ],
-            "blender": [
-                2,
-                58,
-                0
-            ],
-            "category": "Development",
-            "description": "List classes and definitions of a text block",
-            "download_url": "http://localhost:8000/development_class_viewer.py",
-            "location": "Text Editor > Toolbar, Text Editor > Right Click",
-            "name": "Class Viewer",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T29463",
-            "warning": "",
-            "wiki_url": "https://sites.google.com/site/aleonserra/home/scripts/class-viewer"
-        },
         "development_icon_get": {
             "author": "Crouch, N.tox, PKHG, Campbell Barton, Dany Lebel",
             "blender": [
@@ -553,7 +274,7 @@
             ],
             "category": "Development",
             "description": "Click an icon to display its name and copy it to the clipboard",
-            "download_url": "http://localhost:8000/development_icon_get.py",
+            "download_url": "https://packages.blender.org/development_icon_get.py",
             "location": "Text Editor > Properties or Console > Console Menu",
             "name": "Icons",
             "source": "internal",
@@ -565,28 +286,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/System/Display_All_Icons"
         },
-        "ewoc_projects_tools": {
-            "author": "Gert De Roost - paleajed",
-            "blender": [
-                2,
-                65,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Edit mode tools - contrib version",
-            "download_url": "http://localhost:8000/ewoc_projects_tools.zip",
-            "location": "View3D > Toolbar and View3D > Specials (W-key)",
-            "name": "EWOCprojects tools",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                1,
-                4,
-                2
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
         "game_engine_publishing": {
             "author": "Mitchell Stokes (Moguri), Oren Titane (Genome36)",
             "blender": [
@@ -596,7 +295,7 @@
             ],
             "category": "Game Engine",
             "description": "Publish .blend file as game engine runtime, manage versions and platforms",
-            "download_url": "http://localhost:8000/game_engine_publishing.py",
+            "download_url": "https://packages.blender.org/game_engine_publishing.py",
             "location": "Render Properties > Publishing Info",
             "name": "Game Engine Publishing",
             "source": "internal",
@@ -617,7 +316,7 @@
             ],
             "category": "Game Engine",
             "description": "Bundle a .blend file with the Blenderplayer",
-            "download_url": "http://localhost:8000/game_engine_save_as_runtime.py",
+            "download_url": "https://packages.blender.org/game_engine_save_as_runtime.py",
             "location": "File > Export",
             "name": "Save As Game Engine Runtime",
             "source": "internal",
@@ -629,28 +328,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Game_Engine/Save_As_Runtime"
         },
-        "geodesic_domes": {
-            "author": "Noctumsolis, updated from 2.5 PKHG now for 2.71, Meta Androcto, original for 2.49 from Andy Houston",
-            "blender": [
-                2,
-                7,
-                1
-            ],
-            "category": "Mesh",
-            "description": "Create geodesic dome type objects.",
-            "download_url": "http://localhost:8000/geodesic_domes.zip",
-            "location": "Toolshelf > Create Tab",
-            "name": "Geodesic Domes",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                0,
-                3,
-                2
-            ],
-            "warning": "not yet finished",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/Geodesic_Domes"
-        },
         "io_anim_acclaim": {
             "author": "Daniel Monteiro Basso <daniel@basso.inf.br>",
             "blender": [
@@ -660,7 +337,7 @@
             ],
             "category": "Import-Export",
             "description": "Imports Acclaim Skeleton and Motion Capture Files",
-            "download_url": "http://localhost:8000/io_anim_acclaim.zip",
+            "download_url": "https://packages.blender.org/io_anim_acclaim.zip",
             "location": "File > Import-Export",
             "name": "Acclaim Motion Capture Files (.asf, .amc)",
             "source": "internal",
@@ -681,7 +358,7 @@
             ],
             "category": "Import-Export",
             "description": "Import-Export BVH from armature objects",
-            "download_url": "http://localhost:8000/io_anim_bvh.zip",
+            "download_url": "https://packages.blender.org/io_anim_bvh.zip",
             "location": "File > Import-Export",
             "name": "BioVision Motion Capture (BVH) format",
             "source": "internal",
@@ -698,7 +375,7 @@
             ],
             "category": "Import-Export",
             "description": "Imports C3D Graphics Lab Motion Capture files",
-            "download_url": "http://localhost:8000/io_anim_c3d.zip",
+            "download_url": "https://packages.blender.org/io_anim_c3d.zip",
             "location": "File > Import",
             "name": "C3D Graphics Lab Motion Capture file (.c3d)",
             "source": "internal",
@@ -719,7 +396,7 @@
             ],
             "category": "Import-Export",
             "description": "Export Cameras & Markers (.py)",
-            "download_url": "http://localhost:8000/io_anim_camera.py",
+            "download_url": "https://packages.blender.org/io_anim_camera.py",
             "location": "File > Export > Cameras & Markers (.py)",
             "name": "Export Camera Animation",
             "source": "internal",
@@ -740,7 +417,7 @@
             ],
             "category": "Import-Export",
             "description": "Import/Export object's animation with nuke",
-            "download_url": "http://localhost:8000/io_anim_nuke_chan.zip",
+            "download_url": "https://packages.blender.org/io_anim_nuke_chan.zip",
             "location": "File > Import/Export > Nuke (.chan)",
             "name": "Nuke Animation Format (.chan)",
             "source": "internal",
@@ -751,27 +428,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Nuke"
         },
-        "io_atomblend_utilities": {
-            "author": "Clemens Barth",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Utilities for manipulating atom structures",
-            "download_url": "http://localhost:8000/io_atomblend_utilities.zip",
-            "location": "Panel: View 3D - Tools",
-            "name": "Atomic Blender - Utilities",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T33071",
-            "version": [
-                0,
-                95
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/PDB"
-        },
         "io_blend_utils": {
             "author": "Campbell Barton",
             "blender": [
@@ -781,7 +437,7 @@
             ],
             "category": "Import-Export",
             "description": "Utility for packing blend files",
-            "download_url": "http://localhost:8000/io_blend_utils.zip",
+            "download_url": "https://packages.blender.org/io_blend_utils.zip",
             "location": "File > External Data > Blend Utils",
             "name": "Blend File Utils",
             "source": "internal",
@@ -802,7 +458,7 @@
             ],
             "category": "Import-Export",
             "description": "Transfer data between 3D-Coat/Blender",
-            "download_url": "http://localhost:8000/io_coat3D.zip",
+            "download_url": "https://packages.blender.org/io_coat3D.zip",
             "location": "Scene > 3D-Coat Applink",
             "name": "3D-Coat Applink",
             "source": "internal",
@@ -823,7 +479,7 @@
             ],
             "category": "Import-Export",
             "description": "Import a HiRISE DTM formatted as a PDS IMG file",
-            "download_url": "http://localhost:8000/io_convert_image_to_mesh_img.zip",
+            "download_url": "https://packages.blender.org/io_convert_image_to_mesh_img.zip",
             "location": "File > Import > HiRISE DTM from PDS IMG (.IMG)",
             "name": "HiRISE DTM from PDS IMG",
             "source": "internal",
@@ -844,35 +500,13 @@
             ],
             "category": "Import-Export",
             "description": "Import SVG as curves",
-            "download_url": "http://localhost:8000/io_curve_svg.zip",
+            "download_url": "https://packages.blender.org/io_curve_svg.zip",
             "location": "File > Import > Scalable Vector Graphics (.svg)",
             "name": "Scalable Vector Graphics (SVG) 1.1 format",
             "source": "internal",
             "support": "OFFICIAL",
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/SVG"
-        },
-        "io_directx_bel": {
-            "author": "Littleneo (Jerome Mahieux)",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "Import-Export",
-            "dependencies": "",
-            "description": "Import directX Model Format (.x)",
-            "download_url": "http://localhost:8000/io_directx_bel.zip",
-            "location": "File > Import > DirectX (.x)",
-            "name": "DirectX Importer",
-            "source": "internal",
-            "tracker_url": "https://github.com/littleneo/directX_blender/issues",
-            "version": [
-                0,
-                18
-            ],
-            "warning": "",
-            "wiki_url": "https://github.com/littleneo/directX_blender/wiki"
         },
         "io_export_after_effects": {
             "author": "Bartek Skorupa",
@@ -883,7 +517,7 @@
             ],
             "category": "Import-Export",
             "description": "Export cameras, selected objects & camera solution 3D Markers to Adobe After Effects CS3 and above",
-            "download_url": "http://localhost:8000/io_export_after_effects.py",
+            "download_url": "https://packages.blender.org/io_export_after_effects.py",
             "location": "File > Export > Adobe After Effects (.jsx)",
             "name": "Export: Adobe After Effects (.jsx)",
             "source": "internal",
@@ -903,7 +537,7 @@
             ],
             "category": "Import-Export",
             "description": "The script exports Blender geometry to DXF format r12 version.",
-            "download_url": "http://localhost:8000/io_export_dxf.zip",
+            "download_url": "https://packages.blender.org/io_export_dxf.zip",
             "location": "File > Export > Autodesk (.dxf)",
             "name": "Export Autocad DXF Format (.dxf)",
             "source": "internal",
@@ -915,70 +549,6 @@
             "warning": "Under construction! Visit Wiki for details.",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/DXF_Exporter"
         },
-        "io_export_marmalade": {
-            "author": "Benoit Muller",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Export Marmalade Format files (.group)",
-            "download_url": "http://localhost:8000/io_export_marmalade.py",
-            "location": "File > Export > Marmalade cross-platform Apps (.group)",
-            "name": "Marmalade Cross-platform Apps (.group)",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org",
-            "version": [
-                0,
-                6,
-                2
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Marmalade_Exporter"
-        },
-        "io_export_md3": {
-            "author": "Xembie",
-            "blender": [
-                2,
-                53,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Save a Quake Model 3 File)",
-            "download_url": "http://localhost:8000/io_export_md3.py",
-            "location": "File > Export",
-            "name": "Quake Model 3 (.md3)",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T23160",
-            "version": [
-                0,
-                7
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
-        "io_export_paper_model": {
-            "author": "Addam Dominec",
-            "blender": [
-                2,
-                70,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Export printable net of the active mesh",
-            "download_url": "http://localhost:8000/io_export_paper_model.py",
-            "location": "File > Export > Paper Model",
-            "name": "Export Paper Model",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T38441",
-            "version": [
-                0,
-                9
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Paper_Model"
-        },
         "io_export_pc2": {
             "author": "Florian Meyer (tstscr)",
             "blender": [
@@ -988,7 +558,7 @@
             ],
             "category": "Import-Export",
             "description": "Export mesh Pointcache data (.pc2)",
-            "download_url": "http://localhost:8000/io_export_pc2.py",
+            "download_url": "https://packages.blender.org/io_export_pc2.py",
             "location": "File > Export > Pointcache (.pc2)",
             "name": "Export Pointcache Format(.pc2)",
             "source": "internal",
@@ -1008,7 +578,7 @@
             ],
             "category": "Import-Export",
             "description": "Export Skeleletal Mesh/Animation Data",
-            "download_url": "http://localhost:8000/io_export_unreal_psk_psa.py",
+            "download_url": "https://packages.blender.org/io_export_unreal_psk_psa.py",
             "location": "File > Export > Skeletal Mesh/Animation Data (.psk/.psa)",
             "name": "Export Unreal Engine Format(.psk/.psa)",
             "source": "internal",
@@ -1019,50 +589,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Unreal_psk_psa"
         },
-        "io_import_BrushSet": {
-            "author": "Daniel Grauer (kromar)",
-            "blender": [
-                2,
-                7,
-                4
-            ],
-            "category": "Import-Export",
-            "description": "imports all image files from a folder",
-            "download_url": "http://localhost:8000/io_import_BrushSet.py",
-            "location": "File > Import > BrushSet",
-            "name": "import BrushSet",
-            "source": "internal",
-            "tracker_url": "http://projects.blender.org/tracker/index.php?func=detail&aid=25702&group_id=153&atid=467",
-            "version": [
-                1,
-                2,
-                1
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.5/Py/Scripts/Import-Export/BrushSet"
-        },
-        "io_import_LRO_Lola_MGS_Mola_img": {
-            "author": "Valter Battioli (ValterVB)",
-            "blender": [
-                2,
-                58,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Import DTM from LRO Lola and MGS Mola",
-            "download_url": "http://localhost:8000/io_import_LRO_Lola_MGS_Mola_img.py",
-            "location": "3D window > Tool Shelf",
-            "name": "LRO Lola & MGS Mola img Importer",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T25462",
-            "version": [
-                1,
-                1,
-                8
-            ],
-            "warning": "May consume a lot of memory",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/NASA_IMG_Importer"
-        },
         "io_import_dxf": {
             "author": "Lukas Treyer, Manfred Moitzi (support + dxfgrabber library), Vladimir Elistratov, Bastien Montagne",
             "blender": [
@@ -1072,11 +598,10 @@
             ],
             "category": "Import-Export",
             "description": "Import files in the Autocad DXF format (.dxf)",
-            "download_url": "http://localhost:8000/io_import_dxf.zip",
+            "download_url": "https://packages.blender.org/io_import_dxf.zip",
             "location": "File > Import > AutoCAD DXF",
             "name": "Import AutoCAD DXF Format (.dxf)",
             "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
             "version": [
                 0,
                 8,
@@ -1093,7 +618,7 @@
             ],
             "category": "Import-Export",
             "description": "Imports GIMP multilayer image files as a series of multiple planes",
-            "download_url": "http://localhost:8000/io_import_gimp_image_to_scene.py",
+            "download_url": "https://packages.blender.org/io_import_gimp_image_to_scene.py",
             "location": "File > Import > GIMP Image to Scene(.xcf/.xjt)",
             "name": "Import GIMP Image to Scene (.xcf/.xjt)",
             "source": "internal",
@@ -1114,39 +639,17 @@
             ],
             "category": "Import-Export",
             "description": "Imports images and creates planes with the appropriate aspect ratio. The images are mapped to the planes.",
-            "download_url": "http://localhost:8000/io_import_images_as_planes.py",
+            "download_url": "https://packages.blender.org/io_import_images_as_planes.py",
             "location": "File > Import > Images as Planes or Add > Mesh > Images as Planes",
             "name": "Import Images as Planes",
             "source": "internal",
             "version": [
                 2,
                 0,
-                4
+                5
             ],
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Add_Mesh/Planes_from_Images"
-        },
-        "io_import_lipSync_Importer": {
-            "author": "Yousef Harfoush - bat3a ;)",
-            "blender": [
-                2,
-                70,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Plots Moho (Papagayo, Jlipsync, Yolo) file to frames and adds automatic blinking",
-            "download_url": "http://localhost:8000/io_import_lipSync_Importer.py",
-            "location": "3D window > Tool Shelf",
-            "name": "LipSync Importer & Blinker",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T24080",
-            "version": [
-                0,
-                5,
-                1
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php?title=Extensions:2.6/Py/Scripts/Import-Export/Lipsync Importer"
         },
         "io_import_scene_lwo": {
             "author": "Ken Nign (Ken9)",
@@ -1157,7 +660,7 @@
             ],
             "category": "Import-Export",
             "description": "Imports a LWO file including any UV, Morph and Color maps. Can convert Skelegons to an Armature.",
-            "download_url": "http://localhost:8000/io_import_scene_lwo.py",
+            "download_url": "https://packages.blender.org/io_import_scene_lwo.py",
             "location": "File > Import > LightWave Object (.lwo)",
             "name": "Import LightWave Objects",
             "source": "internal",
@@ -1168,23 +671,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/LightWave_Object"
         },
-        "io_import_scene_mhx": {
-            "author": "Thomas Larsson",
-            "blender": [
-                2,
-                68,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Import files in the MakeHuman eXchange format (.mhx)",
-            "download_url": "http://localhost:8000/io_import_scene_mhx.py",
-            "location": "File > Import > MakeHuman (.mhx)",
-            "name": "Import: MakeHuman (.mhx)",
-            "source": "internal",
-            "version": "1.16.12",
-            "warning": "",
-            "wiki_url": "http://www.makehuman.org/documentation"
-        },
         "io_import_scene_unreal_psa_psk": {
             "author": "Darknet, flufy3d, camg188",
             "blender": [
@@ -1194,7 +680,7 @@
             ],
             "category": "Import-Export",
             "description": "Import Skeleleton Mesh/Animation Data",
-            "download_url": "http://localhost:8000/io_import_scene_unreal_psa_psk.py",
+            "download_url": "https://packages.blender.org/io_import_scene_unreal_psa_psk.py",
             "location": "File > Import > Skeleton Mesh (.psk)/Animation Set (psa)",
             "name": "Import Unreal Skeleton Mesh (.psk)/Animation Set (psa)",
             "source": "internal",
@@ -1206,69 +692,6 @@
             "warning": "may produce errors, fix in progress",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.5/Py/Scripts/Import-Export/Unreal_psk_psa"
         },
-        "io_import_sound_to_anim": {
-            "author": "Vlassius",
-            "blender": [
-                2,
-                64,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Extract movement from sound file. See the Object Panel at the end.",
-            "download_url": "http://localhost:8000/io_import_sound_to_anim.py",
-            "location": "Select a object > Object tab > Import Movement From Wav File",
-            "name": "Import: Sound to Animation",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T23565",
-            "version": [
-                0,
-                70
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Import_Movement_From_Audio_File"
-        },
-        "io_import_voodoo_camera": {
-            "author": "Fazekas Laszlo",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Imports a Blender (2.4x or 2.5x) Python script from the Voodoo (version 1.1 or 1.2) camera tracker software.",
-            "download_url": "http://localhost:8000/io_import_voodoo_camera.py",
-            "location": "File > Import > Voodoo camera",
-            "name": "Import Voodoo camera",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T22510",
-            "version": [
-                0,
-                8
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Voodoo_camera"
-        },
-        "io_mesh_gwyddion": {
-            "author": "Clemens Barth",
-            "blender": [
-                2,
-                60,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Loading Gwyddion Atomic Force Microscopy images",
-            "download_url": "http://localhost:8000/io_mesh_gwyddion.zip",
-            "location": "File > Import > Gwyddion (.gwy)",
-            "name": "Atomic Blender - Gwyddion",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T33236",
-            "version": [
-                0,
-                1
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Gwyddion"
-        },
         "io_mesh_pdb": {
             "author": "Clemens Barth",
             "blender": [
@@ -1278,7 +701,7 @@
             ],
             "category": "Import-Export",
             "description": "Loading and manipulating atoms from PDB files",
-            "download_url": "http://localhost:8000/io_mesh_pdb.zip",
+            "download_url": "https://packages.blender.org/io_mesh_pdb.zip",
             "location": "File -> Import -> PDB (.pdb)",
             "name": "Atomic Blender - PDB",
             "source": "internal",
@@ -1298,7 +721,7 @@
             ],
             "category": "Import-Export",
             "description": "Import-Export PLY mesh data withs UV's and vertex colors",
-            "download_url": "http://localhost:8000/io_mesh_ply.zip",
+            "download_url": "https://packages.blender.org/io_mesh_ply.zip",
             "location": "File > Import-Export",
             "name": "Stanford PLY format",
             "source": "internal",
@@ -1315,7 +738,7 @@
             ],
             "category": "Import-Export",
             "description": "Import-Export Raw Faces",
-            "download_url": "http://localhost:8000/io_mesh_raw.zip",
+            "download_url": "https://packages.blender.org/io_mesh_raw.zip",
             "location": "File > Import-Export > Raw Faces (.raw) ",
             "name": "Raw mesh format (.raw)",
             "source": "internal",
@@ -1335,7 +758,7 @@
             ],
             "category": "Import-Export",
             "description": "Import-Export STL files",
-            "download_url": "http://localhost:8000/io_mesh_stl.zip",
+            "download_url": "https://packages.blender.org/io_mesh_stl.zip",
             "location": "File > Import-Export > Stl",
             "name": "STL format",
             "source": "internal",
@@ -1357,7 +780,7 @@
             ],
             "category": "Import-Export",
             "description": "Export the UV layout as a 2D graphic",
-            "download_url": "http://localhost:8000/io_mesh_uv_layout.zip",
+            "download_url": "https://packages.blender.org/io_mesh_uv_layout.zip",
             "location": "Image-Window > UVs > Export UV Layout",
             "name": "UV Layout",
             "source": "internal",
@@ -1370,27 +793,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/UV_Layout"
         },
-        "io_mesh_xyz": {
-            "author": "Clemens Barth",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Import/export of atoms described in .xyz files",
-            "download_url": "http://localhost:8000/io_mesh_xyz.zip",
-            "location": "File -> Import -> XYZ (.xyz)",
-            "name": "Atomic Blender - XYZ",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T29646",
-            "version": [
-                1,
-                0
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/XYZ"
-        },
         "io_online_sketchfab": {
             "author": "Bart Crouch",
             "blender": [
@@ -1400,7 +802,7 @@
             ],
             "category": "Import-Export",
             "description": "Upload your model to Sketchfab",
-            "download_url": "http://localhost:8000/io_online_sketchfab.zip",
+            "download_url": "https://packages.blender.org/io_online_sketchfab.zip",
             "location": "Tools > Upload tab",
             "name": "Sketchfab Exporter",
             "source": "internal",
@@ -1412,27 +814,6 @@
             "warning": "",
             "wiki_url": ""
         },
-        "io_points_pcd": {
-            "author": "Aurel Wildfellner",
-            "blender": [
-                2,
-                57,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Imports and Exports PCD (Point Cloud Data) files. PCD files are the default format used by  pcl (Point Cloud Library).",
-            "download_url": "http://localhost:8000/io_points_pcd.zip",
-            "location": "File > Import-Export > Point Cloud Data",
-            "name": "PCD",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T27711",
-            "version": [
-                0,
-                2
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php?title=Extensions:2.6/Py/Scripts/Import-Export/Point_Cloud_Data_IO"
-        },
         "io_scene_3ds": {
             "author": "Bob Holcomb, Campbell Barton",
             "blender": [
@@ -1442,36 +823,13 @@
             ],
             "category": "Import-Export",
             "description": "Import-Export 3DS, meshes, uvs, materials, textures, cameras & lamps",
-            "download_url": "http://localhost:8000/io_scene_3ds.zip",
+            "download_url": "https://packages.blender.org/io_scene_3ds.zip",
             "location": "File > Import-Export",
             "name": "Autodesk 3DS format",
             "source": "internal",
             "support": "OFFICIAL",
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Autodesk_3DS"
-        },
-        "io_scene_cod": {
-            "author": "CoDEmanX, Flybynyt",
-            "blender": [
-                2,
-                62,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Export models to *.XMODEL_EXPORT and animations to *.XANIM_EXPORT",
-            "download_url": "http://localhost:8000/io_scene_cod.zip",
-            "location": "File > Import  |  File > Export",
-            "name": "Blender-CoD - Add-On for Call of Duty modding (alpha 3)",
-            "source": "internal",
-            "support": "TESTING",
-            "tracker_url": "https://developer.blender.org/T30482",
-            "version": [
-                0,
-                3,
-                5
-            ],
-            "warning": "Alpha version, please report any bugs!",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Call_of_Duty_IO"
         },
         "io_scene_fbx": {
             "author": "Campbell Barton, Bastien Montagne, Jens Restemeier",
@@ -1482,7 +840,7 @@
             ],
             "category": "Import-Export",
             "description": "FBX IO meshes, UV's, vertex colors, materials, textures, cameras, lamps and actions",
-            "download_url": "http://localhost:8000/io_scene_fbx.zip",
+            "download_url": "https://packages.blender.org/io_scene_fbx.zip",
             "location": "File > Import-Export",
             "name": "FBX format",
             "source": "internal",
@@ -1490,54 +848,10 @@
             "version": [
                 3,
                 7,
-                4
+                7
             ],
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Autodesk_FBX"
-        },
-        "io_scene_fpx": {
-            "author": "Alexander Nussbaumer",
-            "blender": [
-                2,
-                68,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Import Future Pinball Model, Library and Table files",
-            "download_url": "http://localhost:8000/io_scene_fpx.zip",
-            "location": "File > Import",
-            "name": "Future Pinball FPx format (.fpm/.fpl/.fpt)",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T36215",
-            "version": [
-                0,
-                0,
-                201401111
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/FuturePinball_FPx"
-        },
-        "io_scene_map": {
-            "author": "Campbell Barton, scorpion81, Bastien Montagne, motorstep",
-            "blender": [
-                2,
-                6,
-                9
-            ],
-            "category": "Import-Export",
-            "description": "Export MAP brushes, nurbs surfaces, lamps and empties as map nodes",
-            "download_url": "http://localhost:8000/io_scene_map.zip",
-            "location": "File > Export",
-            "name": "Quake/Doom3 MAP format",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                2,
-                1,
-                0
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Quake_MAP"
         },
         "io_scene_ms3d": {
             "author": "Alexander Nussbaumer",
@@ -1548,7 +862,7 @@
             ],
             "category": "Import-Export",
             "description": "Import / Export MilkShape3D MS3D files (conform with MilkShape3D v1.8.4)",
-            "download_url": "http://localhost:8000/io_scene_ms3d.zip",
+            "download_url": "https://packages.blender.org/io_scene_ms3d.zip",
             "location": "File > Import & File > Export",
             "name": "MilkShape3D MS3D format (.ms3d)",
             "source": "internal",
@@ -1569,7 +883,7 @@
             ],
             "category": "Import-Export",
             "description": "Import-Export OBJ, Import OBJ mesh, UV's, materials and textures",
-            "download_url": "http://localhost:8000/io_scene_obj.zip",
+            "download_url": "https://packages.blender.org/io_scene_obj.zip",
             "location": "File > Import-Export",
             "name": "Wavefront OBJ format",
             "source": "internal",
@@ -1582,26 +896,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/Wavefront_OBJ"
         },
-        "io_scene_open_street_map": {
-            "author": "Michael Anthrax Schlachter, ideasman42, littleneo",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Load Open Street Map File",
-            "download_url": "http://localhost:8000/io_scene_open_street_map.py",
-            "location": "File > Import",
-            "name": "Open Street Map (.osm)",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                0,
-                2
-            ],
-            "wiki_url": ""
-        },
         "io_scene_vrml2": {
             "author": "Campbell Barton",
             "blender": [
@@ -1611,7 +905,7 @@
             ],
             "category": "Import-Export",
             "description": "Exports mesh objects to VRML2, supporting vertex and material colors",
-            "download_url": "http://localhost:8000/io_scene_vrml2.zip",
+            "download_url": "https://packages.blender.org/io_scene_vrml2.zip",
             "location": "File > Export",
             "name": "VRML2 (Virtual Reality Modeling Language)",
             "source": "internal",
@@ -1628,7 +922,7 @@
             ],
             "category": "Import-Export",
             "description": "Export mesh vertices, UV's, materials, textures, vertex colors, armatures, empties, and actions.",
-            "download_url": "http://localhost:8000/io_scene_x.zip",
+            "download_url": "https://packages.blender.org/io_scene_x.zip",
             "location": "File > Export > DirectX (.x)",
             "name": "DirectX X Format",
             "source": "internal",
@@ -1648,7 +942,7 @@
             ],
             "category": "Import-Export",
             "description": "Import-Export X3D, Import VRML2",
-            "download_url": "http://localhost:8000/io_scene_x3d.zip",
+            "download_url": "https://packages.blender.org/io_scene_x3d.zip",
             "location": "File > Import-Export",
             "name": "Web3D X3D/VRML2 format",
             "source": "internal",
@@ -1670,7 +964,7 @@
             ],
             "category": "Import-Export",
             "description": "Load a CMX formatted EDL into the sequencer",
-            "download_url": "http://localhost:8000/io_sequencer_edl.zip",
+            "download_url": "https://packages.blender.org/io_sequencer_edl.zip",
             "location": "Sequencer -> Track View Properties",
             "name": "Import EDL",
             "source": "internal",
@@ -1690,55 +984,13 @@
             ],
             "category": "Import-Export",
             "description": "Import-Export MDD as mesh shape keys",
-            "download_url": "http://localhost:8000/io_shape_mdd.zip",
+            "download_url": "https://packages.blender.org/io_shape_mdd.zip",
             "location": "File > Import-Export",
             "name": "NewTek MDD format",
             "source": "internal",
             "support": "OFFICIAL",
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/NewTek_OBJ"
-        },
-        "io_vector": {
-            "author": "Howard Trickey",
-            "blender": [
-                2,
-                73,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Import Adobe Illustrator, PDF, and SVG",
-            "download_url": "http://localhost:8000/io_vector.zip",
-            "location": "File > Import-Export > Vector files (.ai, .pdf, .svg)",
-            "name": "Adobe Illustrator / PDF / SVG",
-            "source": "internal",
-            "version": [
-                1,
-                0
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/AI_PDF_SVG"
-        },
-        "lamp_geographical_sun": {
-            "author": "Doug Hammond (dougal2)",
-            "blender": [
-                2,
-                56,
-                0
-            ],
-            "category": "Object",
-            "description": "Set SUN Lamp rotation according to geographical time and location.",
-            "download_url": "http://localhost:8000/lamp_geographical_sun.py",
-            "location": "Lamp data > Geographical Sun",
-            "name": "Geographical Sun",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                0,
-                0,
-                1
-            ],
-            "warning": "",
-            "wiki_url": ""
         },
         "light_field_tools": {
             "author": "Aurel Wildfellner",
@@ -1749,7 +1001,7 @@
             ],
             "category": "Render",
             "description": "Tools to create a light field camera and projector",
-            "download_url": "http://localhost:8000/light_field_tools.zip",
+            "download_url": "https://packages.blender.org/light_field_tools.zip",
             "location": "View3D > Tool Shelf > Light Field Tools",
             "name": "Light Field Tools",
             "source": "internal",
@@ -1761,47 +1013,47 @@
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Render/Light_Field_Tools"
         },
-        "materials_cycles_converter": {
-            "author": "Silvio Falcinelli, updates by community",
+        "materials_utils": {
+            "author": "Community",
             "blender": [
                 2,
-                71,
+                77,
                 0
             ],
             "category": "Material",
-            "description": "Convert non-nodes materials to Cycles",
-            "download_url": "http://localhost:8000/materials_cycles_converter.py",
-            "location": "Properties > Material > Convert to Cycles",
-            "name": "Convert Materials to Cycles",
+            "description": "Materials Utils & Convertors",
+            "download_url": "https://packages.blender.org/materials_utils.zip",
+            "location": "Materials Properties Specials/Shift Q",
+            "name": "Materials Utils Specials",
             "source": "internal",
-            "version": [
-                0,
-                11,
-                1
-            ],
-            "warning": "beta",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Material/Blender_Cycles_Materials_Converter"
-        },
-        "mesh_border_deselect_outer": {
-            "author": "CoDEmanX",
-            "blender": [
-                2,
-                66,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Make a selection, then run this operator to border-select the desired selection intersection",
-            "download_url": "http://localhost:8000/mesh_border_deselect_outer.py",
-            "location": "View3D > EditMode > Select",
-            "name": "Border Deselect Outer",
-            "source": "internal",
-            "tracker_url": "http://blenderartists.org/forum/showthread.php?290617-Mesh-Border-Deselect-Outer-(selection-intersection-by-using-a-border-select)",
+            "tracker_url": "",
             "version": [
                 1,
-                2
+                0,
+                0
             ],
             "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php?title=Extensions:2.6/Py/Scripts/Modeling/Border_Deselect_Outer"
+            "wiki_url": "https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Materials_Utils"
+        },
+        "measureit": {
+            "author": "Antonio Vazquez (antonioya)",
+            "blender": [
+                2,
+                7,
+                4
+            ],
+            "category": "3D View",
+            "description": "Tools for measuring objects.",
+            "download_url": "https://packages.blender.org/measureit.zip",
+            "location": "View3D > Tools Panel /Properties panel",
+            "name": "MeasureIt",
+            "source": "internal",
+            "version": [
+                1,
+                6,
+                8
+            ],
+            "wiki_url": "https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Measureit"
         },
         "mesh_bsurfaces": {
             "author": "Eclectiel",
@@ -1812,7 +1064,7 @@
             ],
             "category": "Mesh",
             "description": "Modeling and retopology tool.",
-            "download_url": "http://localhost:8000/mesh_bsurfaces.py",
+            "download_url": "https://packages.blender.org/mesh_bsurfaces.py",
             "location": "View3D > EditMode > ToolShelf",
             "name": "Bsurfaces GPL Edition",
             "source": "internal",
@@ -1822,25 +1074,25 @@
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.64/Bsurfaces_1.5"
         },
-        "mesh_copy_uvs_from_joined": {
-            "author": "Sergey Sharybin",
+        "mesh_carver": {
+            "author": "Pixivore, C\u00c3\u00a9dric LEPILLER",
             "blender": [
                 2,
-                63,
+                77,
                 0
             ],
             "category": "Object",
-            "description": "Copy UV coordinates from the active joined mesh",
-            "download_url": "http://localhost:8000/mesh_copy_uvs_from_joined.py",
-            "location": "Object mode 'Make Links' menu",
-            "name": "Copy UV's from Joined",
+            "description": "Multiple tools to carve or to create objects.",
+            "download_url": "https://packages.blender.org/mesh_carver.py",
+            "name": "Carver MT",
             "source": "internal",
-            "tracker_url": "",
+            "tracker_url": "https://developer.blender.org/maniphest/task/edit/form/2/",
             "version": [
-                0,
-                1
+                1,
+                1,
+                5
             ],
-            "wiki_url": ""
+            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/Carver"
         },
         "mesh_custom_normals_tools": {
             "author": "Bastien Montagne (mont29)",
@@ -1851,7 +1103,7 @@
             ],
             "category": "Mesh",
             "description": "Various tools/helpers for custom normals",
-            "download_url": "http://localhost:8000/mesh_custom_normals_tools.py",
+            "download_url": "https://packages.blender.org/mesh_custom_normals_tools.py",
             "location": "3DView > Tools",
             "name": "Custom Normals Tools",
             "source": "internal",
@@ -1863,110 +1115,6 @@
             ],
             "warning": ""
         },
-        "mesh_discombobulator": {
-            "author": "Evan J. Rosky (syrux), Chichiri, Jace Priester",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Its job is to easily add scifi details to a surface to create nice-looking space-ships or futuristic cities.",
-            "download_url": "http://localhost:8000/mesh_discombobulator.py",
-            "location": "View3D > Toolshelf > Tools Tab",
-            "name": "Discombobulator",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                0,
-                2
-            ],
-            "warning": "Beta",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts"
-        },
-        "mesh_easylattice": {
-            "author": "Kursad Karatas",
-            "blender": [
-                2,
-                66,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Create a lattice for shape editing",
-            "download_url": "http://localhost:8000/mesh_easylattice.py",
-            "location": "View3D > Easy Lattice",
-            "name": "Easy Lattice Object",
-            "source": "internal",
-            "tracker_url": "https://bitbucket.org/kursad/blender_addons_easylattice/src",
-            "version": [
-                0,
-                5
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Easy_Lattice_Editing_Addon"
-        },
-        "mesh_extra_tools": {
-            "author": "various",
-            "blender": [
-                2,
-                76,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Add extra mesh edit tools",
-            "download_url": "http://localhost:8000/mesh_extra_tools.zip",
-            "location": "View3D > Toolshelf > Tools & Specials (W-key)",
-            "name": "Edit Tools",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/project/3/type/Bug/",
-            "version": [
-                0,
-                1
-            ],
-            "warning": "",
-            "wiki_url": "https://github.com/meta-androcto/blenderpython/wiki/AF_Edit_Tools"
-        },
-        "mesh_extrude_along_curve": {
-            "author": "Andrew Hale (TrumanBlending)",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Extrude a face along a Bezier Curve",
-            "download_url": "http://localhost:8000/mesh_extrude_along_curve.py",
-            "location": "",
-            "name": "Extrude Along Curve",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T32585",
-            "version": [
-                0,
-                1
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
-        "mesh_extrude_and_reshape": {
-            "author": "Germano Cavalcante",
-            "blender": [
-                2,
-                76,
-                5
-            ],
-            "category": "Mesh",
-            "description": "Extrude face and merge edge intersections between the mesh and the new edges",
-            "download_url": "http://localhost:8000/mesh_extrude_and_reshape.py",
-            "location": "View3D > TOOLS > Tools > Mesh Tools > Add: > Extrude Menu (Alt + E)",
-            "name": "Extrude and Reshape",
-            "source": "internal",
-            "version": [
-                0,
-                8,
-                1
-            ],
-            "wiki_url": "http://blenderartists.org/forum/showthread.php?376618-Addon-Push-Pull-Face"
-        },
         "mesh_f2": {
             "author": "Bart Crouch, Alexander Nedovizin, Paul Kotelevets (concept design)",
             "blender": [
@@ -1976,7 +1124,7 @@
             ],
             "category": "Mesh",
             "description": "Extends the 'Make Edge/Face' functionality",
-            "download_url": "http://localhost:8000/mesh_f2.py",
+            "download_url": "https://packages.blender.org/mesh_f2.py",
             "location": "Editmode > F",
             "name": "F2",
             "source": "internal",
@@ -1988,50 +1136,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/F2"
         },
-        "mesh_face_info_select": {
-            "author": "CoDEmanX",
-            "blender": [
-                2,
-                62,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Displays triangle, quad and ngon count of the active object. Allows to select faces by these types.",
-            "download_url": "http://localhost:8000/mesh_face_info_select.py",
-            "location": "Properties > Object data > Face info / select",
-            "name": "Face info / select by type",
-            "source": "internal",
-            "support": "TESTING",
-            "tracker_url": "https://developer.blender.org/T31926",
-            "version": [
-                0,
-                0,
-                3
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Mesh/Face_Info_Select"
-        },
-        "mesh_insert_edge_ring": {
-            "author": "tstscr (tstscr@web.de)",
-            "blender": [
-                2,
-                64,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Insert an edge ring along the selected edge loop",
-            "download_url": "http://localhost:8000/mesh_insert_edge_ring.py",
-            "location": "View3D > Edge Specials > Insert edge ring (Ctrl Alt R)",
-            "name": "Insert Edge Ring",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T32424",
-            "version": [
-                1,
-                0
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Mesh/Insert_Edge_Ring"
-        },
         "mesh_inset": {
             "author": "Howard Trickey",
             "blender": [
@@ -2041,7 +1145,7 @@
             ],
             "category": "Mesh",
             "description": "Make an inset polygon inside selection.",
-            "download_url": "http://localhost:8000/mesh_inset.zip",
+            "download_url": "https://packages.blender.org/mesh_inset.zip",
             "location": "View3D > Tools",
             "name": "Inset Polygon",
             "source": "internal",
@@ -2062,7 +1166,7 @@
             ],
             "category": "Mesh",
             "description": "Mesh modelling toolkit. Several tools to aid modelling",
-            "download_url": "http://localhost:8000/mesh_looptools.py",
+            "download_url": "https://packages.blender.org/mesh_looptools.py",
             "location": "View3D > Toolbar and View3D > Specials (W-key)",
             "name": "LoopTools",
             "source": "internal",
@@ -2083,7 +1187,7 @@
             ],
             "category": "Mesh",
             "description": "Relax the selected verts while retaining the shape",
-            "download_url": "http://localhost:8000/mesh_relax.py",
+            "download_url": "https://packages.blender.org/mesh_relax.py",
             "location": "View3D > Specials > Relax ",
             "name": "Relax",
             "source": "internal",
@@ -2094,108 +1198,25 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/Relax"
         },
-        "mesh_select_tools": {
-            "author": "Multiple Authors",
-            "blender": [
-                2,
-                64,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Adds More vert/face/edge select modes.",
-            "download_url": "http://localhost:8000/mesh_select_tools.zip",
-            "location": "Editmode Select Menu/Toolshelf Tools Tab",
-            "name": "Select Tools",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                0,
-                3
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
-        "mesh_select_vertex_groups": {
-            "author": "Martin Ellison",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Finds all the vertex groups that chosen verts are in, & any verts that are not in any group",
-            "download_url": "http://localhost:8000/mesh_select_vertex_groups.py",
-            "location": "Toolbox",
-            "name": "Select Vertex Groups",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T22025",
-            "version": [
-                1,
-                0
-            ],
-            "warning": "Buggy",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/Select_Vertex_Groups"
-        },
-        "mesh_show_vgroup_weights": {
-            "author": "Jason van Gumster (Fweeb), Bartius Crouch, CoDEmanX",
-            "blender": [
-                2,
-                65,
-                4
-            ],
-            "category": "Mesh",
-            "description": "Finds the vertex groups of a selected vertex and displays the corresponding weights",
-            "download_url": "http://localhost:8000/mesh_show_vgroup_weights.py",
-            "location": "3D View > Properties Region > Show Weights",
-            "name": "Show Vertex Groups/Weights",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T30609",
-            "version": [
-                0,
-                7,
-                2
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/Show_Vertex_Group_Weights"
-        },
-        "mesh_snap_utilities_line": {
-            "author": "Germano Cavalcante",
-            "blender": [
-                2,
-                75,
-                0
-            ],
-            "category": "Mesh",
-            "description": "Extends Blender Snap controls",
-            "download_url": "http://localhost:8000/mesh_snap_utilities_line.py",
-            "location": "View3D > TOOLS > Snap Utilities > snap utilities",
-            "name": "Snap_Utilities_Line",
-            "source": "internal",
-            "version": [
-                5,
-                7
-            ],
-            "wiki_url": "http://blenderartists.org/forum/showthread.php?363859-Addon-CAD-Snap-Utilities"
-        },
-        "mesh_tinyCAD": {
+        "mesh_tiny_cad": {
             "author": "zeffii (aka Dealga McArdle)",
             "blender": [
                 2,
                 7,
-                6
+                7
             ],
             "category": "Mesh",
-            "download_url": "http://localhost:8000/mesh_tinyCAD.zip",
+            "download_url": "https://packages.blender.org/mesh_tiny_cad.zip",
             "location": "View3D > EditMode > (w) Specials",
             "name": "tinyCAD Mesh tools",
             "source": "internal",
-            "tracker_url": "https://github.com/zeffii/Blender_CAD_utils/issues",
+            "tracker_url": "https://github.com/zeffii/mesh_tiny_cad/issues",
             "version": [
                 1,
-                2,
-                3
+                3,
+                0
             ],
-            "wiki_url": ""
+            "wiki_url": "http://zeffii.github.io/mesh_tiny_cad/"
         },
         "mocap": {
             "author": "Benjy Cook",
@@ -2206,7 +1227,7 @@
             ],
             "category": "Animation",
             "description": "Various tools for working with motion capture animation",
-            "download_url": "http://localhost:8000/mocap.zip",
+            "download_url": "https://packages.blender.org/mocap.zip",
             "location": "Object UI > Mocap tools",
             "name": "Motion Capture Tools",
             "source": "internal",
@@ -2228,7 +1249,7 @@
             ],
             "category": "Render",
             "description": "Distributed rendering for Blender",
-            "download_url": "http://localhost:8000/netrender.zip",
+            "download_url": "https://packages.blender.org/netrender.zip",
             "location": "Render > Engine > Network Render",
             "name": "Network Renderer",
             "source": "internal",
@@ -2239,42 +1260,22 @@
             "warning": "Stable but still work in progress",
             "wiki_url": "http://wiki.blender.org/index.php/Doc:2.5/Manual/Render/Engines/Netrender"
         },
-        "node_presets": {
-            "author": "Campbell Barton",
-            "blender": [
-                2,
-                69
-            ],
-            "category": "Render",
-            "description": "Adds node presets",
-            "download_url": "http://localhost:8000/node_presets.py",
-            "location": "Node > Add Template",
-            "name": "Node Presets",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                1,
-                1
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
         "node_wrangler": {
-            "author": "Bartek Skorupa, Greg Zaal, Sebastian Koenig",
+            "author": "Bartek Skorupa, Greg Zaal, Sebastian Koenig, Christian Brinkmann",
             "blender": [
                 2,
-                75,
+                77,
                 0
             ],
             "category": "Node",
             "description": "Various tools to enhance and speed up node-based workflow",
-            "download_url": "http://localhost:8000/node_wrangler.py",
+            "download_url": "https://packages.blender.org/node_wrangler.py",
             "location": "Node Editor Toolbar or Ctrl-Space",
             "name": "Node Wrangler",
             "source": "internal",
             "version": [
                 3,
-                30
+                32
             ],
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Nodes/Nodes_Efficiency_Tools"
@@ -2288,7 +1289,7 @@
             ],
             "category": "Object",
             "description": "Adds Chain with curve guide for easy creation",
-            "download_url": "http://localhost:8000/object_add_chain.py",
+            "download_url": "https://packages.blender.org/object_add_chain.py",
             "location": "Toolshelf > Create Tab",
             "name": "Add Chain",
             "source": "internal",
@@ -2309,7 +1310,7 @@
             ],
             "category": "Object",
             "description": "Renderbakes a series of frames",
-            "download_url": "http://localhost:8000/object_animrenderbake.py",
+            "download_url": "https://packages.blender.org/object_animrenderbake.py",
             "location": "Properties > Render > Bake Panel",
             "name": "Animated Render Baker",
             "source": "internal",
@@ -2319,45 +1320,24 @@
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/Animated_Render_Baker"
         },
-        "object_batch_rename_datablocks": {
-            "author": "tstscr",
-            "blender": [
-                2,
-                59,
-                0
-            ],
-            "category": "Object",
-            "description": "Batch renaming of datablocks (e.g. rename materials after objectnames)",
-            "download_url": "http://localhost:8000/object_batch_rename_datablocks.py",
-            "location": "Search > (rename)",
-            "name": "Batch Rename Datablocks",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T25242",
-            "version": [
-                1,
-                0
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/Batch_Rename_Datablocks"
-        },
         "object_boolean_tools": {
-            "author": "Vitor Balbio, Mikhail Rachinskiy",
+            "author": "Vitor Balbio, Mikhail Rachinskiy, TynkaTopi, Meta-Androcto",
             "blender": [
                 2,
-                77,
+                78,
                 0
             ],
             "category": "Object",
             "description": "Bool Tools Hotkey: Ctrl Shift B",
-            "download_url": "http://localhost:8000/object_boolean_tools.py",
-            "location": "View3D > Toolshelf > BoolTool",
+            "download_url": "https://packages.blender.org/object_boolean_tools.py",
+            "location": "View3D > Toolshelf",
             "name": "Bool Tool",
             "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
+            "tracker_url": "https://developer.blender.org/maniphest/task/edit/form/2/",
             "version": [
                 0,
                 3,
-                2
+                5
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/BoolTool"
         },
@@ -2370,7 +1350,7 @@
             ],
             "category": "Object",
             "description": "Creates Volumetric Clouds",
-            "download_url": "http://localhost:8000/object_cloud_gen.py",
+            "download_url": "https://packages.blender.org/object_cloud_gen.py",
             "location": "Tool Shelf > Create Tab",
             "name": "Cloud Generator",
             "source": "internal",
@@ -2381,69 +1361,6 @@
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/Cloud_Gen"
         },
-        "object_color_rules": {
-            "author": "Campbell Barton",
-            "blender": [
-                2,
-                73,
-                0
-            ],
-            "category": "Object",
-            "description": "Rules for assigning object color (used for wireframe colors).",
-            "download_url": "http://localhost:8000/object_color_rules.py",
-            "location": "Properties > Object Buttons",
-            "name": "Object Color Rules",
-            "source": "internal",
-            "version": [
-                0,
-                0,
-                1
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/Color_Rules"
-        },
-        "object_creaprim": {
-            "author": "Gert De Roost",
-            "blender": [
-                2,
-                64,
-                0
-            ],
-            "category": "Object",
-            "description": "Create primitive addon",
-            "download_url": "http://localhost:8000/object_creaprim.py",
-            "location": "View3D > Object Tools",
-            "name": "CreaPrim",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T32801",
-            "version": [
-                0,
-                3,
-                10
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
-        "object_drop_to_ground": {
-            "author": "Unnikrishnan(kodemax), Florian Meyer(testscreenings)",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Object",
-            "description": "Drop selected objects on active object",
-            "download_url": "http://localhost:8000/object_drop_to_ground.py",
-            "location": "3D View > Toolshelf > Tools Tab",
-            "name": "Drop to Ground",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                1,
-                2
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/Drop_to_ground"
-        },
         "object_edit_linked": {
             "author": "Jason van Gumster (Fweeb), Bassam Kurdali, Pablo Vazquez",
             "blender": [
@@ -2453,7 +1370,7 @@
             ],
             "category": "Object",
             "description": "Allows editing of objects linked from a .blend library.",
-            "download_url": "http://localhost:8000/object_edit_linked.py",
+            "download_url": "https://packages.blender.org/object_edit_linked.py",
             "location": "View3D > Toolshelf > Edit Linked Library",
             "name": "Edit Linked Library",
             "source": "internal",
@@ -2473,7 +1390,7 @@
             ],
             "category": "Object",
             "description": "Fractured Object, Bomb, Projectile, Recorder",
-            "download_url": "http://localhost:8000/object_fracture.zip",
+            "download_url": "https://packages.blender.org/object_fracture.zip",
             "location": "Search > Fracture Object & Add > Fracture Helper Objects",
             "name": "Fracture Tools",
             "source": "internal",
@@ -2494,7 +1411,7 @@
             ],
             "category": "Object",
             "description": "Fractured Object, Bomb, Projectile, Recorder",
-            "download_url": "http://localhost:8000/object_fracture_cell.zip",
+            "download_url": "https://packages.blender.org/object_fracture_cell.zip",
             "location": "Edit panel of Tools tab, in Object mode, 3D View tools",
             "name": "Cell Fracture",
             "source": "internal",
@@ -2514,7 +1431,7 @@
             ],
             "category": "Object",
             "description": "Scatter a group of objects onto the active mesh using the grease pencil lines",
-            "download_url": "http://localhost:8000/object_grease_scatter.py",
+            "download_url": "https://packages.blender.org/object_grease_scatter.py",
             "location": "3D View, Add Mesh",
             "name": "Grease Scatter Objects",
             "source": "internal",
@@ -2526,91 +1443,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/Grease_Scatter"
         },
-        "object_laplace_lightning": {
-            "author": "teldredge",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Object",
-            "description": "Lightning mesh generator using laplacian growth algorithm",
-            "download_url": "http://localhost:8000/object_laplace_lightning.py",
-            "location": "View3D > Toolshelf > Create Tab",
-            "name": "Laplacian Lightning",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                0,
-                2,
-                7
-            ],
-            "warning": "Beta",
-            "wiki_url": "http://www.funkboxing.com/wordpress/?p=301"
-        },
-        "object_mangle_tools": {
-            "author": "Phil Cote",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "Object",
-            "description": "Set of tools to mangle curves, meshes, and shape keys",
-            "download_url": "http://localhost:8000/object_mangle_tools.py",
-            "location": "View3D > Toolshelf > Tools Tab",
-            "name": "Mangle Tools",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                0,
-                2
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
-        "object_particle_hair_lab": {
-            "author": "Ondrej Raha(lokhorn), meta-androcto",
-            "blender": [
-                2,
-                75,
-                0
-            ],
-            "category": "Object",
-            "description": "Creates particle grass with material",
-            "download_url": "http://localhost:8000/object_particle_hair_lab.py",
-            "location": "View3D > ToolShelf > Create Tab",
-            "name": "Grass Lab",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                0,
-                5
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/Hair_Lab"
-        },
-        "object_powerlib": {
-            "author": "Olivier Amrein, Francesco Siddi",
-            "blender": [
-                2,
-                53,
-                0
-            ],
-            "category": "3D View",
-            "description": "Control panel for managing groups contained in linked libraries",
-            "download_url": "http://localhost:8000/object_powerlib.py",
-            "location": "Properties Panel",
-            "name": "Powerlib",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T31475",
-            "version": [
-                0,
-                5
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/PowerLib"
-        },
         "object_print3d_utils": {
             "author": "Campbell Barton",
             "blender": [
@@ -2620,7 +1452,7 @@
             ],
             "category": "Mesh",
             "description": "Utilities for 3D printing",
-            "download_url": "http://localhost:8000/object_print3d_utils.zip",
+            "download_url": "https://packages.blender.org/object_print3d_utils.zip",
             "location": "3D View > Toolbox",
             "name": "3D Print Toolbox",
             "source": "internal",
@@ -2628,131 +1460,27 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/PrintToolbox"
         },
-        "online_mat_lib": {
-            "author": "Peter Cassetta",
-            "blender": [
-                2,
-                74,
-                5
-            ],
-            "category": "Material",
-            "description": "Browse and download materials from online CC0 libraries.",
-            "download_url": "http://localhost:8000/online_mat_lib.zip",
-            "location": "Properties > Material > Online Material Library",
-            "name": "Online Material Library",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                0,
-                7
-            ],
-            "warning": "Beta version",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Material/Online_Material_Library"
-        },
-        "oscurart_futurism": {
-            "author": "Oscurart",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "Add Mesh",
-            "description": "Adds a new Mesh Object",
-            "download_url": "http://localhost:8000/oscurart_futurism.py",
-            "location": "Object > Futurism",
-            "name": "Futurism",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T31911",
-            "version": [
-                1,
-                2
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Object/Oscurart_Futurism"
-        },
-        "oscurart_mesh_cache_tools": {
-            "author": "Oscurart",
-            "blender": [
-                2,
-                70,
-                0
-            ],
-            "category": "Import-Export",
-            "description": "Tools for Management Mesh Cache Process",
-            "download_url": "http://localhost:8000/oscurart_mesh_cache_tools.py",
-            "location": "Tools > Mesh Cache Tools",
-            "name": "Mesh Cache Tools",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                1,
-                0
-            ],
-            "warning": "",
-            "wiki_url": ""
-        },
-        "oscurart_mesh_thread": {
-            "author": "Oscurart",
-            "blender": [
-                2,
-                59,
-                0
-            ],
-            "category": "Object",
-            "description": "Make a thread.",
-            "download_url": "http://localhost:8000/oscurart_mesh_thread.py",
-            "location": "Add > Mesh > Thread",
-            "name": "Make Thread Mesh",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                1,
-                0
-            ],
-            "warning": "",
-            "wiki_url": "http://oscurart.blogspot.com"
-        },
         "oscurart_tools": {
             "author": "Oscurart, CodemanX",
             "blender": [
                 2,
-                70,
+                77,
                 0
             ],
             "category": "Object",
             "description": "Tools for objects, render, shapes, and files.",
-            "download_url": "http://localhost:8000/oscurart_tools.zip",
+            "download_url": "https://packages.blender.org/oscurart_tools.zip",
             "location": "View3D > Tools > Oscurart Tools",
             "name": "Oscurart Tools",
             "source": "internal",
-            "tracker_url": "",
+            "tracker_url": "https://developer.blender.org/maniphest/task/edit/form/2/",
             "version": [
                 3,
-                2
+                5,
+                0
             ],
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Oscurart_Tools"
-        },
-        "oscurart_worn_edges_map": {
-            "author": "Oscurart",
-            "blender": [
-                2,
-                68,
-                0
-            ],
-            "category": "Paint",
-            "description": "Create a Vertex Color map with Worn Edges",
-            "download_url": "http://localhost:8000/oscurart_worn_edges_map.py",
-            "location": "Vertex Paint > Paint > Worn Edges",
-            "name": "Worn Edges",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                1,
-                2
-            ],
-            "warning": "",
-            "wiki_url": ""
         },
         "paint_palette": {
             "author": "Dany Lebel (Axon D)",
@@ -2763,7 +1491,7 @@
             ],
             "category": "Paint",
             "description": "Palettes for color and weight paint modes",
-            "download_url": "http://localhost:8000/paint_palette.py",
+            "download_url": "https://packages.blender.org/paint_palette.py",
             "location": "Image Editor and 3D View > Any Paint mode > Color Palette or Weight Palette panel",
             "name": "Paint Palettes",
             "source": "internal",
@@ -2775,26 +1503,26 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Paint/Palettes"
         },
-        "render_auto_save": {
-            "author": "tstscr",
+        "pie_menus_official": {
+            "author": "Antony Riakiotakis, Sebastian Koenig",
             "blender": [
                 2,
-                73,
-                0
+                7,
+                7
             ],
-            "category": "Render",
-            "description": "Automatically save the image after rendering",
-            "download_url": "http://localhost:8000/render_auto_save.py",
-            "location": "Rendertab -> Render Panel",
-            "name": "Auto Save Render",
+            "category": "Pie Menu",
+            "description": "Individual Pie Menu Activation List",
+            "download_url": "https://packages.blender.org/pie_menus_official.zip",
+            "location": "Addons Preferences",
+            "name": "UI Pie Menu Official",
             "source": "internal",
-            "tracker_url": "http://projects.blender.org/tracker/index.php?func=detail&aid=32491",
             "version": [
-                2,
-                0
+                1,
+                1,
+                4
             ],
             "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Render/Auto_Save"
+            "wiki_url": "https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Pie_Menu"
         },
         "render_auto_tile_size": {
             "author": "Greg Zaal",
@@ -2805,7 +1533,7 @@
             ],
             "category": "Render",
             "description": "Estimate and set the tile size that will render the fastest",
-            "download_url": "http://localhost:8000/render_auto_tile_size.py",
+            "download_url": "https://packages.blender.org/render_auto_tile_size.py",
             "location": "Render Settings > Performance",
             "name": "Auto Tile Size",
             "source": "internal",
@@ -2817,26 +1545,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php?title=Extensions:2.6/Py/Scripts/Render/Auto_Tile_Size"
         },
-        "render_clay": {
-            "author": "Fabio Russo <ruesp83@libero.it>",
-            "blender": [
-                2,
-                56,
-                0
-            ],
-            "category": "Render",
-            "description": "This script, applies a temporary material to all objects of the scene.",
-            "download_url": "http://localhost:8000/render_clay.py",
-            "location": "Render > Clay Render",
-            "name": "Clay Render",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T22971",
-            "version": [
-                1,
-                2
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Clay_Render"
-        },
         "render_copy_settings": {
             "author": "Bastien Montagne",
             "blender": [
@@ -2846,7 +1554,7 @@
             ],
             "category": "Render",
             "description": "Allows to copy a selection of render settings from current scene to others.",
-            "download_url": "http://localhost:8000/render_copy_settings.zip",
+            "download_url": "https://packages.blender.org/render_copy_settings.zip",
             "location": "Render buttons (Properties window)",
             "name": "Copy Settings",
             "source": "internal",
@@ -2866,7 +1574,7 @@
             ],
             "category": "Render",
             "description": "Exports Freestyle's stylized edges in SVG format",
-            "download_url": "http://localhost:8000/render_freestyle_svg.py",
+            "download_url": "https://packages.blender.org/render_freestyle_svg.py",
             "location": "Properties > Render > Freestyle SVG Export",
             "name": "Freestyle SVG Exporter",
             "source": "internal",
@@ -2877,27 +1585,6 @@
             "warning": "",
             "wiki_url": ""
         },
-        "render_notify": {
-            "author": "Campbell Barton",
-            "blender": [
-                2,
-                65,
-                0
-            ],
-            "category": "Render",
-            "description": "Notify when a rendered completes",
-            "download_url": "http://localhost:8000/render_notify.py",
-            "location": "Uses desktop notify facilities",
-            "name": "Render Notify",
-            "source": "internal",
-            "version": [
-                0,
-                0,
-                1
-            ],
-            "warning": "Currently only Linux/Unix supported (using 'notify-send')",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Render/Render_Notify"
-        },
         "render_povray": {
             "author": "Campbell Barton, Silvio Falcinelli, Maurice Raybaud, Constantin Rahn, Bastien Montagne, Leonid Desyatkov",
             "blender": [
@@ -2907,7 +1594,7 @@
             ],
             "category": "Render",
             "description": "Basic POV-Ray 3.7 integration for blender",
-            "download_url": "http://localhost:8000/render_povray.zip",
+            "download_url": "https://packages.blender.org/render_povray.zip",
             "location": "Render > Engine > POV-Ray 3.7",
             "name": "POV-Ray 3.7",
             "source": "internal",
@@ -2919,69 +1606,6 @@
             "warning": "this script is RC",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Render/POV-Ray"
         },
-        "render_time": {
-            "author": "Jason van Gumster (Fweeb)",
-            "blender": [
-                2,
-                65,
-                4
-            ],
-            "category": "Render",
-            "description": "Estimates the time to complete rendering on animations",
-            "download_url": "http://localhost:8000/render_time.py",
-            "location": "UV/Image Editor > Properties > Image",
-            "name": "Render Time Estimation",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T30452",
-            "version": [
-                0,
-                5,
-                2
-            ],
-            "warning": "Does not work on OpenGL renders.",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Render/Render_Time_Estimation"
-        },
-        "render_to_print": {
-            "author": "Marco Crippa <thekrypt77@tiscali.it>, Dealga McArdle",
-            "blender": [
-                2,
-                58,
-                0
-            ],
-            "category": "Render",
-            "description": "Set the size of the render for a print",
-            "download_url": "http://localhost:8000/render_to_print.py",
-            "location": "Render > Render to Print",
-            "name": "Render to Print",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T24219",
-            "version": [
-                0,
-                2
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Render/Render to Print"
-        },
-        "rigging_camerarigs": {
-            "author": "Wayne Dixon, Kris Wittig",
-            "blender": [
-                2,
-                77,
-                0
-            ],
-            "category": "Rigging",
-            "description": "Adds a Camera Rig with UI",
-            "download_url": "http://localhost:8000/rigging_camerarigs.py",
-            "location": "View3D > Add > Armature > Dolly or Camera Rig",
-            "name": "Add Camera Rigs",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                1,
-                1
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Rigging/Add_Camera_Rigs"
-        },
         "rigify": {
             "author": "Nathan Vegdahl",
             "blender": [
@@ -2991,7 +1615,7 @@
             ],
             "category": "Rigging",
             "description": "Automatic rigging from building-block components",
-            "download_url": "http://localhost:8000/rigify.zip",
+            "download_url": "https://packages.blender.org/rigify.zip",
             "location": "Armature properties, Bone properties, View3d tools panel, Armature Add menu",
             "name": "Rigify",
             "source": "internal",
@@ -3002,72 +1626,6 @@
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.5/Py/Scripts/Rigging/Rigify"
         },
-        "sequencer_extra_actions": {
-            "author": "Turi Scandurra, Carlos Padial",
-            "blender": [
-                2,
-                69,
-                0
-            ],
-            "category": "Sequencer",
-            "description": "Collection of extra operators to manipulate VSE strips",
-            "download_url": "http://localhost:8000/sequencer_extra_actions.zip",
-            "location": "Sequencer",
-            "name": "Extra Sequencer Actions",
-            "source": "internal",
-            "support": "COMMUNITY",
-            "tracker_url": "https://developer.blender.org/T32532",
-            "version": [
-                3,
-                8
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Sequencer/Extra_Sequencer_Actions"
-        },
-        "sequencer_jumptocut": {
-            "author": "Carlos Padial",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "Sequencer",
-            "description": "Tool collection to help speed up editting and grade videos with blender",
-            "download_url": "http://localhost:8000/sequencer_jumptocut.py",
-            "location": "Sequencer > UI > Jump to Cut",
-            "name": "Jump to Cut",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T24279",
-            "version": [
-                5,
-                0,
-                2
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.5/Py/Scripts/Sequencer/Jump_to_cut"
-        },
-        "sequencer_tools": {
-            "author": "mont29",
-            "blender": [
-                2,
-                66,
-                0
-            ],
-            "category": "Sequencer",
-            "description": "Various Sequencer tools.",
-            "download_url": "http://localhost:8000/sequencer_tools.zip",
-            "location": "Sequencer menus/UI",
-            "name": "Sequencer Tools",
-            "source": "internal",
-            "support": "TESTING",
-            "tracker_url": "https://developer.blender.org/T31549",
-            "version": [
-                0,
-                0,
-                2
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Sequencer/Tools"
-        },
         "space_view3d_3d_navigation": {
             "author": "Demohero, uriel",
             "blender": [
@@ -3077,8 +1635,8 @@
             ],
             "category": "3D View",
             "description": "Navigate the Camera & 3D View from the Toolshelf",
-            "download_url": "http://localhost:8000/space_view3d_3d_navigation.py",
-            "location": "View3D > Tool Shelf > 3D Navigation Tab",
+            "download_url": "https://packages.blender.org/space_view3d_3d_navigation.py",
+            "location": "View3D > Tool Shelf > Navigation Tab",
             "name": "3D Navigation",
             "source": "internal",
             "version": [
@@ -3089,49 +1647,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/3D_Navigation"
         },
-        "space_view3d_add_surround_cameras": {
-            "author": "Cole Ingraham",
-            "blender": [
-                2,
-                75,
-                0
-            ],
-            "category": "3D View",
-            "description": "Setup cameras and create rendering scenes for n-screen surround projection.",
-            "download_url": "http://localhost:8000/space_view3d_add_surround_cameras.py",
-            "location": "View3D > Tool Shelf > Surround Projection panel",
-            "name": "Surround Projection Tools",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                0,
-                1,
-                2
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Surround_Projection_Tools"
-        },
-        "space_view3d_align_tools": {
-            "author": "gabhead, Lell, Anfeo",
-            "blender": [
-                2,
-                77,
-                0
-            ],
-            "category": "3D View",
-            "description": "Align Selected Objects to Active Object",
-            "download_url": "http://localhost:8000/space_view3d_align_tools.py",
-            "location": "View3D > Tool Shelf > Tools",
-            "name": "Align Tools",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                0,
-                3,
-                1
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D interaction/Align_Tools"
-        },
         "space_view3d_copy_attributes": {
             "author": "Bassam Kurdali, Fabian Fricke, Adam Wiseman",
             "blender": [
@@ -3141,7 +1656,7 @@
             ],
             "category": "3D View",
             "description": "Copy Attributes Menu from Blender 2.4",
-            "download_url": "http://localhost:8000/space_view3d_copy_attributes.py",
+            "download_url": "https://packages.blender.org/space_view3d_copy_attributes.py",
             "location": "View3D > Ctrl-C",
             "name": "Copy Attributes Menu",
             "source": "internal",
@@ -3152,132 +1667,6 @@
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Copy_Attributes_Menu"
         },
-        "space_view3d_cursor_control": {
-            "author": "Morgan M\u00c3\u00b6rtsell (Seminumerical)",
-            "blender": [
-                2,
-                65,
-                4
-            ],
-            "category": "3D View",
-            "description": "Control the Cursor",
-            "download_url": "http://localhost:8000/space_view3d_cursor_control.zip",
-            "location": "View3D > Properties > Cursor",
-            "name": "Cursor Control",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T27253",
-            "version": [
-                0,
-                7,
-                1
-            ],
-            "warning": "buggy, may crash other addons",
-            "wiki_url": "http://blenderpythonscripts.wordpress.com/"
-        },
-        "space_view3d_enhanced_3d_cursor": {
-            "author": "dairin0d",
-            "blender": [
-                2,
-                7,
-                0
-            ],
-            "category": "3D View",
-            "description": "Cursor history and bookmarks; drag/snap cursor.",
-            "download_url": "http://localhost:8000/space_view3d_enhanced_3d_cursor.py",
-            "location": "View3D > Action mouse; F10; Properties panel",
-            "name": "Enhanced 3D Cursor",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T28451",
-            "version": [
-                2,
-                9,
-                8
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Enhanced_3D_Cursor"
-        },
-        "space_view3d_game_props_visualiser": {
-            "author": "Bartius Crouch/Vilem Novak",
-            "blender": [
-                2,
-                65,
-                4
-            ],
-            "category": "3D View",
-            "description": "Display the game properties next to selected objects in the 3d-view",
-            "download_url": "http://localhost:8000/space_view3d_game_props_visualiser.py",
-            "location": "View3D > Properties panel > Display tab",
-            "name": "Game Property Visualizer",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T22607",
-            "version": [
-                2,
-                6
-            ],
-            "warning": "Script is returning errors",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Game_Property_Visualiser"
-        },
-        "space_view3d_library_hide": {
-            "author": "Campbell Barton",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "3D View",
-            "description": "Hide objects within library dupligroups",
-            "download_url": "http://localhost:8000/space_view3d_library_hide.py",
-            "location": "Search: RayCast View Operator",
-            "name": "Library Hide",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                1,
-                0
-            ],
-            "wiki_url": ""
-        },
-        "space_view3d_manipulator_Menu": {
-            "author": "MichaelW",
-            "blender": [
-                2,
-                61,
-                0
-            ],
-            "category": "3D View",
-            "description": "Menu to change the manipulator type and/or disable it",
-            "download_url": "http://localhost:8000/space_view3d_manipulator_Menu.py",
-            "location": "View3D > Ctrl Space ",
-            "name": "3d View: Manipulator Menu",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T22092",
-            "version": [
-                1,
-                2,
-                1
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Manipulator_Menu"
-        },
-        "space_view3d_materials_utils": {
-            "author": "michaelw",
-            "blender": [
-                2,
-                74,
-                0
-            ],
-            "category": "Material",
-            "description": "Menu of material tools (assign, select..)  in the 3D View",
-            "download_url": "http://localhost:8000/space_view3d_materials_utils.py",
-            "location": "View3D > shift-Q key",
-            "name": "Material Utils",
-            "source": "internal",
-            "version": [
-                1,
-                6
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D interaction/Materials Utils"
-        },
         "space_view3d_math_vis": {
             "author": "Campbell Barton",
             "blender": [
@@ -3287,14 +1676,14 @@
             ],
             "category": "3D View",
             "description": "Display console defined mathutils variables in the 3D view",
-            "download_url": "http://localhost:8000/space_view3d_math_vis.zip",
+            "download_url": "https://packages.blender.org/space_view3d_math_vis.zip",
             "location": "View3D > Tool Shelf or Console",
             "name": "Math Vis (Console)",
             "source": "internal",
             "support": "OFFICIAL",
             "version": [
                 0,
-                1
+                2
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Math_Viz"
         },
@@ -3307,119 +1696,40 @@
             ],
             "category": "3D View",
             "description": "Modifiers Specials Show/Hide/Apply Selected",
-            "download_url": "http://localhost:8000/space_view3d_modifier_tools.py",
+            "download_url": "https://packages.blender.org/space_view3d_modifier_tools.py",
             "location": "Properties > Modifiers",
             "name": "Modifier Tools",
             "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/project/3/type/Bug/",
+            "tracker_url": "https://developer.blender.org/maniphest/task/edit/form/2/",
             "version": [
                 0,
-                2,
-                0
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts"
-        },
-        "space_view3d_paint_bprojection": {
-            "author": "kgeogeo",
-            "blender": [
-                2,
-                66,
-                0
-            ],
-            "category": "Paint",
-            "description": "Help Clone tool",
-            "download_url": "http://localhost:8000/space_view3d_paint_bprojection.py",
-            "name": "BProjection",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T30521",
-            "version": [
-                2,
-                0
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/bprojection"
-        },
-        "space_view3d_panel_measure": {
-            "author": "Buerbaum Martin (Pontiac), TNae (Normal patch), Benjamin Lauritzen (Loonsbury; Volume code), Alessandro Sala (patch: Units in 3D View), Daniel Ashby (callback removal code) ",
-            "blender": [
-                2,
-                74,
-                0
-            ],
-            "category": "3D View",
-            "description": "Measure distances between objects",
-            "download_url": "http://localhost:8000/space_view3d_panel_measure.py",
-            "location": "View3D > Properties > Measure Panel",
-            "name": "Measure Panel",
-            "source": "internal",
-            "version": [
-                0,
-                9,
-                1
-            ],
-            "warning": "Disable during Render. Broken register",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Panel_Measure"
-        },
-        "space_view3d_quickPrefs": {
-            "author": "Sean Olson",
-            "blender": [
-                2,
-                66,
-                0
-            ],
-            "category": "3D View",
-            "description": "Add often changed User Preference options to Properties panel.",
-            "download_url": "http://localhost:8000/space_view3d_quickPrefs.py",
-            "location": "3DView->Properties Panel (N-Key)",
-            "name": "QuickPrefs",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T27822",
-            "version": [
                 2,
                 2
             ],
             "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/QuickPrefs"
+            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/modifier_tools"
         },
-        "space_view3d_render_settings": {
-            "author": "meta-androcto, Saidenka",
+        "space_view3d_pie_menus": {
+            "author": "meta-androcto, pitiwazou, chromoly, italic",
             "blender": [
                 2,
                 7,
                 7
             ],
-            "category": "Render",
-            "description": "Render Settings BI & Cycles",
-            "download_url": "http://localhost:8000/space_view3d_render_settings.py",
-            "location": "Render Menu, UV Editor Render Tab",
-            "name": "Render Settings",
+            "category": "Pie Menu",
+            "description": "Individual Pie Menu Activation List",
+            "download_url": "https://packages.blender.org/space_view3d_pie_menus.zip",
+            "location": "Addons Preferences",
+            "name": "3D Viewport Pie Menus",
             "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/project/3/type/Bug/",
+            "tracker_url": "https://developer.blender.org/maniphest/task/edit/form/2/",
             "version": [
-                0,
                 1,
-                1
+                1,
+                3
             ],
             "warning": "",
-            "wiki_url": "https://github.com/meta-androcto/blenderpython/wiki/AF_Render_Settings"
-        },
-        "space_view3d_ruler_chromoly": {
-            "author": "chromoly - adapted for 2.63 by Gert De Roost",
-            "blender": [
-                2,
-                63,
-                0
-            ],
-            "category": "3D View",
-            "download_url": "http://localhost:8000/space_view3d_ruler_chromoly.zip",
-            "location": "View3D > Properties > Ruler",
-            "name": "Ruler",
-            "source": "internal",
-            "version": [
-                2,
-                3,
-                0
-            ]
+            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/viewport_pies"
         },
         "space_view3d_spacebar_menu": {
             "author": "meta-androcto",
@@ -3430,63 +1740,17 @@
             ],
             "category": "3D View",
             "description": "Object Mode Context Sensitive Spacebar Menu",
-            "download_url": "http://localhost:8000/space_view3d_spacebar_menu.py",
+            "download_url": "https://packages.blender.org/space_view3d_spacebar_menu.py",
             "location": "View3D > Spacebar",
             "name": "Dynamic Context Menu",
             "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
             "version": [
                 1,
                 8,
-                2
+                3
             ],
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Dynamic_Spacebar_Menu"
-        },
-        "space_view3d_toolshelf_menu": {
-            "author": "meta-androcto",
-            "blender": [
-                2,
-                7,
-                7
-            ],
-            "category": "3D View",
-            "description": "Context Sensitive Toolshelf Menu",
-            "download_url": "http://localhost:8000/space_view3d_toolshelf_menu.py",
-            "location": "View3D > Spacebar Key, Dynamic Tab",
-            "name": "Dynamic Toolshelf Menu",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                3,
-                0,
-                1
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Dynamic_Spacebar_Menu"
-        },
-        "stored_views": {
-            "author": "nfloyd",
-            "blender": [
-                2,
-                71,
-                0
-            ],
-            "category": "3D View",
-            "description": "Save and restore User defined views, pov, layers and display configs.",
-            "download_url": "http://localhost:8000/stored_views.zip",
-            "location": "View3D > Properties > Stored Views",
-            "name": "Stored Views",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T27476",
-            "version": [
-                0,
-                3,
-                3,
-                "beta"
-            ],
-            "warning": "beta release, single view only",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.5/Py/Scripts/3D_interaction/stored_views"
         },
         "system_blend_info": {
             "author": "uselessdreamer",
@@ -3497,7 +1761,7 @@
             ],
             "category": "System",
             "description": "Show information about the .blend",
-            "download_url": "http://localhost:8000/system_blend_info.py",
+            "download_url": "https://packages.blender.org/system_blend_info.py",
             "location": "Properties > Scene > Blend Info Panel",
             "name": "Scene Information",
             "source": "internal",
@@ -3517,56 +1781,13 @@
             ],
             "category": "System",
             "description": "Demo mode lets you select multiple blend files and loop over them.",
-            "download_url": "http://localhost:8000/system_demo_mode.zip",
+            "download_url": "https://packages.blender.org/system_demo_mode.zip",
             "location": "Demo Menu",
             "name": "Demo Mode",
             "source": "internal",
             "support": "OFFICIAL",
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/System/Demo_Mode#Running_Demo_Mode"
-        },
-        "system_keyboard_svg": {
-            "author": "Jbakker",
-            "blender": [
-                2,
-                60,
-                0
-            ],
-            "category": "System",
-            "description": "Save the hotkeys as a .svg file (search: Keyboard)",
-            "download_url": "http://localhost:8000/system_keyboard_svg.py",
-            "location": "",
-            "name": "Keyboard Layout (svg)",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T21490",
-            "version": [
-                0,
-                1
-            ],
-            "warning": "may not work in recent svn",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/System/keymaps_to_svg"
-        },
-        "system_project_folder": {
-            "author": "Dany Lebel (Axon_D), Spirou4D",
-            "blender": [
-                2,
-                61,
-                0
-            ],
-            "category": "System",
-            "description": "Open the project folder in a file browser",
-            "download_url": "http://localhost:8000/system_project_folder.py",
-            "location": "Info -> File Menu -> Project Folder",
-            "name": "Project Folder",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T25910",
-            "version": [
-                0,
-                3,
-                1
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/System/Project_Folder"
         },
         "system_property_chart": {
             "author": "Campbell Barton (ideasman42)",
@@ -3577,7 +1798,7 @@
             ],
             "category": "System",
             "description": "Edit arbitrary selected properties for objects/sequence strips of the same type",
-            "download_url": "http://localhost:8000/system_property_chart.py",
+            "download_url": "https://packages.blender.org/system_property_chart.py",
             "location": "Tool Shelf",
             "name": "Property Chart",
             "source": "internal",
@@ -3588,47 +1809,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/System/Object Property Chart"
         },
-        "text_editor_pasteall": {
-            "author": "Dalai Felinto (dfelinto)",
-            "blender": [
-                2,
-                60,
-                0
-            ],
-            "category": "Text Editor",
-            "description": "Send your selection or text to www.pasteall.org",
-            "download_url": "http://localhost:8000/text_editor_pasteall.py",
-            "location": "Text editor > Properties panel",
-            "name": "PasteAll",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/T23493",
-            "version": [
-                0,
-                7
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Text_Editor/PasteAll"
-        },
-        "text_intellisense": {
-            "author": "Mackraken",
-            "blender": [
-                2,
-                60,
-                0
-            ],
-            "category": "Development",
-            "description": "Adds intellense to the Text Editor",
-            "download_url": "http://localhost:8000/text_intellisense.py",
-            "location": "Ctrl + Space at Text Editor",
-            "name": "Intellisense for Text Editor",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                0,
-                2
-            ],
-            "warning": "Only works with 2.57 intellisense",
-            "wiki_url": ""
-        },
         "ui_layer_manager": {
             "author": "Alfonso Annarumma, Bastien Montagne",
             "blender": [
@@ -3638,7 +1818,7 @@
             ],
             "category": "3D View",
             "description": "Display and Edit Layer Name",
-            "download_url": "http://localhost:8000/ui_layer_manager.py",
+            "download_url": "https://packages.blender.org/ui_layer_manager.py",
             "location": "Toolshelf > Layers Tab",
             "name": "Layer Management",
             "source": "internal",
@@ -3650,40 +1830,6 @@
             "warning": "",
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/layer_manager"
         },
-        "ui_pie_menus_official": {
-            "author": "Antony Riakiotakis, Sebastian Koenig",
-            "blender": [
-                2,
-                77,
-                0
-            ],
-            "category": "User Interface",
-            "description": "Enable official Pie Menus in Blender",
-            "download_url": "http://localhost:8000/ui_pie_menus_official.py",
-            "name": "Pie Menus Official",
-            "source": "internal",
-            "tracker_url": "https://developer.blender.org/maniphest/task/create/?project=3&type=Bug",
-            "version": [
-                1,
-                0,
-                3
-            ],
-            "wiki_url": "http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.72/UI/Pie_Menus"
-        },
-        "ui_splash_tips": {
-            "blender": [
-                2,
-                73,
-                0
-            ],
-            "category": "User Interface",
-            "description": "Show a tip on startup",
-            "download_url": "http://localhost:8000/ui_splash_tips.zip",
-            "location": "Splash Screen",
-            "name": "Splash Startup Tips",
-            "source": "internal",
-            "warning": ""
-        },
         "ui_translate": {
             "author": "Bastien Montagne",
             "blender": [
@@ -3693,7 +1839,7 @@
             ],
             "category": "System",
             "description": "Allow to manage UI translations directly from Blender (update main po files, update scripts' translations, etc.)",
-            "download_url": "http://localhost:8000/ui_translate.zip",
+            "download_url": "https://packages.blender.org/ui_translate.zip",
             "location": "Main \"File\" menu, text editor, any UI control",
             "name": "Manage UI translations",
             "source": "internal",
@@ -3706,26 +1852,6 @@
             "warning": "Still in development, not all features are fully implemented yet!",
             "wiki_url": "http://wiki.blender.org/index.php/Dev:Doc/How_to/Translate_Blender"
         },
-        "uv_align_distribute": {
-            "author": "Rebellion (Luca Carella)",
-            "blender": [
-                2,
-                7,
-                3
-            ],
-            "category": "UV",
-            "description": "Set of tools to help UV alignment\\distribution",
-            "download_url": "http://localhost:8000/uv_align_distribute.py",
-            "location": "UV/Image editor > Tool Panel, UV/Image editor UVs > menu",
-            "name": "UV Align/Distribute",
-            "source": "internal",
-            "version": [
-                1,
-                3
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/UV/UV_Align_Distribution"
-        },
         "uv_bake_texture_to_vcols": {
             "author": "Patrick Boelens, CoDEmanX",
             "blender": [
@@ -3735,7 +1861,7 @@
             ],
             "category": "UV",
             "description": "Bakes the colors of the active UV Texture to a Vertex Color layer.",
-            "download_url": "http://localhost:8000/uv_bake_texture_to_vcols.py",
+            "download_url": "https://packages.blender.org/uv_bake_texture_to_vcols.py",
             "location": "3D View > Vertex Paint > Toolshelf > Bake",
             "name": "Bake UV-Texture to Vertex Colors",
             "source": "internal",
@@ -3746,28 +1872,6 @@
             "warning": "Requires image texture, generated textures aren't supported.",
             "wiki_url": "http://wiki.blender.org/index.php?title=Extensions:2.6/Py/Scripts/UV/Bake_Texture_to_Vertex_Colors"
         },
-        "uv_magic_uv": {
-            "author": "Nutti",
-            "blender": [
-                2,
-                77,
-                0
-            ],
-            "category": "UV",
-            "description": "UV Manipulator Tools",
-            "download_url": "http://localhost:8000/uv_magic_uv.zip",
-            "location": "View3D > U, View3D > Property Panel, ImageEditor > Property Panel, ImageEditor > UVs",
-            "name": "Magic UV",
-            "source": "internal",
-            "support": "COMMUNITY",
-            "tracker_url": "https://github.com/nutti/Copy-And-Paste-UV",
-            "version": [
-                4,
-                0
-            ],
-            "warning": "",
-            "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/UV/Copy_Paste_UVs"
-        },
         "uv_texture_atlas": {
             "author": "Andreas Esau, Paul Geraskin, Campbell Barton",
             "blender": [
@@ -3777,7 +1881,7 @@
             ],
             "category": "UV",
             "description": "A simple Texture Atlas for unwrapping many objects. It creates additional UV",
-            "download_url": "http://localhost:8000/uv_texture_atlas.py",
+            "download_url": "https://packages.blender.org/uv_texture_atlas.py",
             "location": "Properties > Render",
             "name": "Texture Atlas",
             "source": "internal",
@@ -3787,26 +1891,6 @@
                 1
             ],
             "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/UV/TextureAtlas"
-        },
-        "uv_utility": {
-            "author": "Paul Geraskin",
-            "blender": [
-                2,
-                70,
-                0
-            ],
-            "category": "UV",
-            "description": "Change Index Of UVMap.",
-            "download_url": "http://localhost:8000/uv_utility.py",
-            "location": "View3D > ToolBar",
-            "name": "UV Utility",
-            "source": "internal",
-            "tracker_url": "",
-            "version": [
-                0,
-                1
-            ],
-            "wiki_url": ""
         }
     },
     "schema-version": 1
